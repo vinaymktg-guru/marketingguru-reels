@@ -20,6 +20,23 @@ from PIL import Image, ImageDraw, ImageFilter, ImageFont
 ROOT = os.path.dirname(os.path.abspath(__file__))
 W, H, FPS = 1080, 1920, 30
 NAVY = (11, 31, 58); GOLD = (245, 179, 1); WHITE = (255, 255, 255); RED = (226, 58, 58)
+# ---- brands: add "brand": "mb" or "ba" to a lesson JSON (default "mg" = The Marketing Guru)
+BRANDS = {
+ 'mg': dict(navy=(11, 31, 58), accent=(245, 179, 1), warm=(40, 12, 22), deep=(6, 14, 30), initials='VP', arrow=True,
+            name='THE MARKETING GURU', sub='Vinay Pandey  ·  @marketingguru_vp', handle='@marketingguru_vp', voice='hm_omega', ui={}),
+ 'mb': dict(navy=(64, 10, 44), accent=(255, 150, 196), warm=(92, 20, 60), deep=(30, 5, 22), initials='MB', arrow=False,
+            name='MERA BACHCHA INDIA', sub='@merabachcha_india', handle='@merabachcha_india', voice='hf_alpha',
+            ui=dict(lesson='AAJ KI BAAT #{n}', mistake='AKSAR GALTI', fix='YEH KAREIN', why='KYUN ZAROORI HAI',
+                    ask='agar aaj se try karenge', tag='Har bachcha sabse achha deserve karta hai.')),
+ 'ba': dict(navy=(9, 24, 48), accent=(255, 138, 31), warm=(10, 46, 34), deep=(4, 10, 24), initials='B', arrow=True,
+            name='BHARAT AI', sub='@bharat_ai3110  ·  Sales, Marketing aur AI tips', handle='@bharat_ai3110', voice='hm_omega',
+            ui=dict(lesson='AI TIP #{n}', mistake='PURANA TAREEKA', fix='YEH PROMPT LIKHO', why='FAYDA',
+                    ask='agar aaj try karoge', tag='AI se kaam 10x fast. Roz ek tip.')),
+}
+def _brand():
+    try: return BRANDS[json.load(open(sys.argv[1])).get('brand', 'mg')]
+    except (IndexError, OSError, ValueError): return BRANDS['mg']
+B = _brand(); NAVY = B['navy']; GOLD = B['accent']
 FONTS = {'bebas': 'bebas.ttf', 'cinzel': 'cinzel.ttf', 'pb': 'playfairb.ttf', 'pi': 'playfairi.ttf',
          'pop': 'Poppins-Medium.ttf', 'popb': 'Poppins-Bold.ttf'}
 _fc = {}
@@ -88,11 +105,11 @@ def make_bg(theme, seed):
     yy, xx = np.mgrid[0:H, 0:W]
     vig = np.clip(1 - 0.5 * np.clip(np.sqrt(((xx - W / 2) / (W * .75)) ** 2 + ((yy - H / 2) / (H * .7)) ** 2) - .35, 0, 1) ** 1.3, 0, 1)[..., None]
     if theme == 'grid':
-        arr = vgrad([(0, (5, 10, 24)), (0.55, (11, 31, 58)), (0.62, (70, 45, 20)), (0.66, (12, 22, 42)), (1, (4, 8, 18))])
+        arr = vgrad([(0, B['deep']), (0.55, NAVY), (0.62, tuple(int(c * 0.3) for c in GOLD)), (0.66, NAVY), (1, B['deep'])])
     elif theme == 'streaks':
-        arr = vgrad([(0, (8, 16, 34)), (0.5, (14, 34, 64)), (1, (5, 9, 20))])
+        arr = vgrad([(0, B['deep']), (0.5, NAVY), (1, B['deep'])])
     else:
-        arr = vgrad([(0, (6, 14, 30)), (0.45, (11, 31, 58)), (1, (40, 12, 22))])
+        arr = vgrad([(0, B['deep']), (0.45, NAVY), (1, B['warm'])])
     base = Image.fromarray(np.clip(arr * vig, 0, 255).astype(np.uint8)).convert('RGBA')
     # readability scrim in the text zone
     sc = Image.new('RGBA', (W, H), (0, 0, 0, 0)); ImageDraw.Draw(sc).ellipse((-200, 380, W + 200, 1500), fill=(3, 8, 18, 120))
@@ -135,12 +152,13 @@ def make_bg(theme, seed):
 def logo():
     L = Image.new('RGBA', (W, 260), (0, 0, 0, 0)); d = ImageDraw.Draw(L); x, y = 70, 110
     d.ellipse((x, y, x + 96, y + 96), outline=GOLD + (255,), width=4)
-    f = font('cinzel', 44); b = d.textbbox((0, 0), 'VP', font=f)
-    d.text((x + 48 - (b[2] + b[0]) / 2, y + 50 - (b[3] + b[1]) / 2), 'VP', font=f, fill=GOLD + (255,))
-    d.line((x + 74, y + 30, x + 86, y + 14), fill=GOLD + (255,), width=4)
-    d.polygon([(x + 90, y + 8), (x + 78, y + 13), (x + 88, y + 22)], fill=GOLD + (255,))
-    d.text((x + 116, y + 18), 'THE MARKETING GURU', font=font('cinzel', 26), fill=GOLD + (255,))
-    d.text((x + 116, y + 54), 'Vinay Pandey  ·  @marketingguru_vp', font=font('pop', 22), fill=(255, 255, 255, 230))
+    f = font('cinzel', 44); b = d.textbbox((0, 0), B['initials'], font=f)
+    d.text((x + 48 - (b[2] + b[0]) / 2, y + 50 - (b[3] + b[1]) / 2), B['initials'], font=f, fill=GOLD + (255,))
+    if B['arrow']:
+        d.line((x + 74, y + 30, x + 86, y + 14), fill=GOLD + (255,), width=4)
+        d.polygon([(x + 90, y + 8), (x + 78, y + 13), (x + 88, y + 22)], fill=GOLD + (255,))
+    d.text((x + 116, y + 18), B['name'], font=font('cinzel', 26), fill=GOLD + (255,))
+    d.text((x + 116, y + 54), B['sub'], font=font('pop', 22), fill=(255, 255, 255, 230))
     L.putalpha(L.getchannel('A').point(lambda v: int(v * 0.9))); return L
 
 # ------------------------------------------------------------------ scenes
@@ -169,7 +187,7 @@ def scene_fns(spec):
         pill(lay, top - 120, spec['fix'].get('label', U['fix']), GOLD, filled=True, a=a)
         dr = ImageDraw.Draw(lay); bw = 940
         dr.rounded_rectangle(((W - bw) // 2, top - 40, (W + bw) // 2, top + fx['h'] + 30), radius=28,
-                             fill=(11, 31, 58, int(200 * a)), outline=GOLD + (int(255 * a),), width=5)
+                             fill=NAVY + (int(200 * a),), outline=GOLD + (int(255 * a),), width=5)
         draw_kinetic(lay, fx, top, u, 0.25, stagger=0.08, shadow=False)
     S['fix'] = fix
     wy = layout(spec['why']['text'], 'bebas', 120, maxlines=5)
@@ -186,13 +204,13 @@ def scene_fns(spec):
         draw_kinetic(lay, sh, 720, u, 0.5, stagger=0.04, shadow=False)
         b = ease((u - 1.0) / 0.4); kw = spec['cta']['keyword']; f = font('bebas', 110); pw = tw(kw, f) + 120
         top = 960 + int(40 * (1 - b))
-        dr.rounded_rectangle((90, top - 30, W - 90, top + 300), radius=40, fill=(11, 31, 58, int(215 * b)), outline=GOLD + (int(130 * b),), width=3)
+        dr.rounded_rectangle((90, top - 30, W - 90, top + 300), radius=40, fill=NAVY + (int(215 * b),), outline=GOLD + (int(130 * b),), width=3)
         dr.text((W // 2, top + 20), U['comment'], font=font('cinzel', 34), fill=GOLD + (int(255 * b),), anchor='mm')
         dr.rounded_rectangle(((W - pw) // 2, top + 55, (W + pw) // 2, top + 195), radius=70, fill=GOLD + (int(255 * b),))
         dr.text((W // 2, top + 128), kw, font=f, fill=NAVY + (int(255 * b),), anchor='mm')
         dr.text((W // 2, top + 245), spec['cta'].get('ask', U['ask']), font=font('pop', 30), fill=(255, 255, 255, int(220 * b)), anchor='mm')
         c = ease((u - 1.6) / 0.4)
-        dr.text((W // 2, 1390), 'FOLLOW @marketingguru_vp', font=font('cinzel', 36), fill=GOLD + (int(255 * c),), anchor='mm')
+        dr.text((W // 2, 1390), 'FOLLOW ' + B['handle'], font=font('cinzel', 36), fill=GOLD + (int(255 * c),), anchor='mm')
         dr.text((W // 2, 1440), U['tag'], font=font('pop', 28), fill=(255, 255, 255, int(200 * c)), anchor='mm')
     S['cta'] = cta
     return S
@@ -202,7 +220,7 @@ UI = {'en': dict(lesson='SALES LESSON #{n}', mistake='THE MISTAKE', fix='SAY THI
                  comment='COMMENT', ask='if you will try this today', tag='25 years of field lessons. One a day.'),
       'hi': dict(lesson='AAJ KA MANTRA #{n}', mistake='GALTI', fix='YEH BOLO', why='KYUN KAAM KARTA HAI', save='SAVE *KARO.*',
                  comment='COMMENT KARO', ask='agar aaj try karoge', tag='25 saal ka field experience. Roz ek sabak.')}
-def ui(spec): return UI['hi' if spec.get('lang', 'en').startswith('hi') else 'en']
+def ui(spec): return {**UI['hi' if spec.get('lang', 'en').startswith('hi') else 'en'], **B['ui']}
 MIN = {'hook': 2.8, 'mistake': 3.0, 'fix': 3.6, 'why': 3.0, 'cta': 4.5}
 
 # ------------------------------------------------------------------ audio
@@ -210,7 +228,7 @@ def tts(spec, outdir):
     from kokoro_onnx import Kokoro
     import soundfile as sf
     k = Kokoro(os.path.join(ROOT, 'models', 'kokoro.onnx'), os.path.join(ROOT, 'models', 'voices-v1.0.bin'))
-    hi = spec.get('lang', 'en').startswith('hi'); voice = spec.get('voice', 'hm_omega' if hi else 'am_michael'); clips = {}
+    hi = spec.get('lang', 'en').startswith('hi'); voice = spec.get('voice', B['voice'] if hi else 'am_michael'); clips = {}
     for s in ORDER:
         a, sr = k.create(spec[s]['vo'], voice=voice, speed=spec.get('speed', 1.05), lang='hi' if hi else 'en-us')
         nz = np.where(np.abs(a) > 0.01)[0]; clips[s] = a[max(nz[0] - 200, 0): nz[-1] + 1200]
