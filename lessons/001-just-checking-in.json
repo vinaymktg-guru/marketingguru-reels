@@ -1,11 +1,35 @@
 {
   "slug": "001-just-checking-in",
-  "n": 1, "theme": "bokeh", "chords": 0,
-  "hook":    {"text": "Stop saying *\"just checking in.\"*", "vo": "Stop saying: just checking in."},
-  "mistake": {"label": "THE MISTAKE", "text": "\"Hi sir, just checking in. Any update?\"", "vo": "Hi sir, just checking in, any update? That's not a follow-up. That's a reminder that you want something."},
-  "fix":     {"label": "SAY THIS INSTEAD", "text": "\"Sir, I found *one idea* for your new outlet. *2 minutes?*\"", "vo": "Sir, I found one idea for your new outlet. Can I show you in two minutes?"},
-  "why":     {"label": "WHY IT WORKS", "text": "Every follow-up must *give* something. Then they *wait* for your next call.", "vo": "Every follow-up should give something new. Then the customer waits for your next call."},
-  "cta":     {"share": "Send this to a teammate who \"just checks in\" every week.", "keyword": "VALUE", "ask": "if you'll try this on your next call", "vo": "Save this. And send it to a teammate who just checks in every week."},
+  "n": 1,
+  "theme": "bokeh",
+  "chords": 0,
+  "hook": {
+    "text": "Stop saying *\"just checking in.\"*",
+    "vo": "Stop saying: just checking in."
+  },
+  "mistake": {
+    "label": "THE MISTAKE",
+    "text": "\"Hi sir, just checking in. Any update?\"",
+    "vo": "Hi sir, just checking in, any update? That's not a follow-up. That's a reminder that you want something."
+  },
+  "fix": {
+    "label": "SAY THIS INSTEAD",
+    "text": "\"Sir, I found *one idea* for your new outlet. *2 minutes?*\"",
+    "vo": "Sir, I found one idea for your new outlet. Can I show you in two minutes?"
+  },
+  "why": {
+    "label": "WHY IT WORKS",
+    "text": "Every follow-up must *give* something. Then they *wait* for your next call.",
+    "vo": "Every follow-up should give something new. Then the customer waits for your next call."
+  },
+  "cta": {
+    "share": "Send this to a teammate who \"just checks in\" every week.",
+    "keyword": "VALUE",
+    "ask": "if you'll try this on your next call",
+    "vo": "Save this. And send it to a teammate who just checks in every week."
+  },
   "caption": "Stop saying \"just checking in.\" It tells the customer you want something, and gives them nothing.\n\nTop salespeople bring one new useful thing to every follow-up: an idea, a fact, a solution for their goal. Then the customer starts waiting for your call.\n\nSAVE this for your next follow-up.\nSend it to a teammate who \"just checks in\" every week.\n\nComment VALUE if you'll try this on your next call.\n\n#TheMarketingGuru #SalesTips #FollowUp #SalesTraining #FieldSales",
-  "first_comment": "What's the most useful thing you've ever brought to a follow-up call?"
+  "first_comment": "What's the most useful thing you've ever brought to a follow-up call?",
+  "yt_title": "Stop Saying \"Just Checking In\" (Say This Instead) | Sales Tips",
+  "yt_description": "The follow-up line top salespeople use instead of \"just checking in\": bring one useful idea every time. Daily sales lessons from 25 years in field sales by Vinay Pandey, The Marketing Guru.\n\n#SalesTips #FollowUp #SalesTraining #SalesLessonDaily #Shorts"
 }
