@@ -1,4 +1,4 @@
-# Daily Sales Lesson – topic bank
+# Daily reel topic bank – SALES, MARKETING, MOTIVATION (all reels in Hinglish)
 Common, universal sales lessons (B2B, field sales, retail, pharma, FMCG). One per reel. Mark used topics by the lesson file that used them (lessons/NNN-*.json). Never invent statistics; use field wisdom framing.
 
 1. "Just checking in" follow-ups -> bring one useful thing (USED 001)
@@ -41,3 +41,29 @@ Common, universal sales lessons (B2B, field sales, retail, pharma, FMCG). One pe
 38. Reacting to "too expensive" with defence -> ask "compared to what?"
 39. Relying on memory -> note 3 facts after every meeting
 40. Waiting for motivation -> start the first call before 10 AM
+
+## MARKETING (Hinglish)
+M1. Product nahi, problem becho -> customer ka dard pehle
+M2. Sabko bechne ki koshish -> ek clear customer chuno
+M3. Price kam karna hi strategy nahi -> value dikhao
+M4. Brand = jo customer aapke baare mein bolta hai jab aap room mein nahi ho
+M5. "Sasta" vs "value for money" -> positioning ka farak
+M6. Word of mouth -> khush customer se referral maangna
+M7. Ek line mein batao aap kya karte ho (elevator pitch)
+M8. Features list vs ek strong benefit
+M9. Customer ki bhasha mein bolo, company ki nahi
+M10. Consistency branding hai: roz dikho
+M11. Competition ki burai mat karo, apna farak batao
+M12. Social proof: "aap jaise customers ne..." (only real examples)
+
+## MOTIVATION (field-sales mindset, Hinglish)
+X1. "Na" ek data hai, faisla nahi
+X2. Mahina 1 tareekh ko shuru hota hai, 20 ko nahi
+X3. Motivation ka intezaar mat karo, pehla call 10 baje se pehle
+X4. Target se darr nahi, plan se dosti
+X5. Aaj ka chhota kaam = kal ka bada result (1% roz)
+X6. Bura din, bura mahina nahi hota jab tak aap ruko nahi
+X7. Comparison team se nahi, kal ke aap se
+X8. Discipline > mood
+X9. Har rejection ke baad agla darwaza
+X10. Field mein izzat kamai jaati hai, maangi nahi jaati
