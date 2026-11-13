@@ -1,35 +1,41 @@
 {
   "slug": "001-just-checking-in",
   "n": 1,
+  "lang": "hi",
+  "voice": "hm_omega",
   "theme": "bokeh",
   "chords": 0,
   "hook": {
-    "text": "Stop saying *\"just checking in.\"*",
-    "vo": "Stop saying: just checking in."
+    "text": "*\"Just checking in\"* bolna band karo.",
+    "vo": "जस्ट चेकिंग इन... बोलना बंद करो।"
   },
   "mistake": {
-    "label": "THE MISTAKE",
-    "text": "\"Hi sir, just checking in. Any update?\"",
-    "vo": "Hi sir, just checking in, any update? That's not a follow-up. That's a reminder that you want something."
+    "text": "\"Sir, bas check kar raha tha. Koi update?\"",
+    "vo": "सर, बस चेक कर रहा था, कोई अपडेट? ये फॉलो-अप नहीं, बस याद दिलाना है।"
   },
   "fix": {
-    "label": "SAY THIS INSTEAD",
-    "text": "\"Sir, I found *one idea* for your new outlet. *2 minutes?*\"",
-    "vo": "Sir, I found one idea for your new outlet. Can I show you in two minutes?"
+    "text": "\"Sir, aapke naye outlet ke liye *ek idea* hai. *2 minute?*\"",
+    "vo": "सर, आपके नए आउटलेट के लिए एक आइडिया है। दो मिनट दीजिए?"
   },
   "why": {
-    "label": "WHY IT WORKS",
-    "text": "Every follow-up must *give* something. Then they *wait* for your next call.",
-    "vo": "Every follow-up should give something new. Then the customer waits for your next call."
+    "text": "Har follow-up mein *kuch naya do.* Tab customer *aapke call ka intezaar* karega.",
+    "vo": "हर फॉलो-अप में कुछ नया दो। फिर कस्टमर आपके कॉल का इंतज़ार करेगा।"
   },
   "cta": {
-    "share": "Send this to a teammate who \"just checks in\" every week.",
+    "share": "Us teammate ko bhejo jo har hafte \"just checking in\" karta hai.",
     "keyword": "VALUE",
-    "ask": "if you'll try this on your next call",
-    "vo": "Save this. And send it to a teammate who just checks in every week."
+    "ask": "agar agle call pe try karoge",
+    "vo": "सेव करो, और उस टीममेट को भेजो जो बस चेक करता रहता है। और अगली बार..."
   },
-  "caption": "Stop saying \"just checking in.\" It tells the customer you want something, and gives them nothing.\n\nTop salespeople bring one new useful thing to every follow-up: an idea, a fact, a solution for their goal. Then the customer starts waiting for your call.\n\nSAVE this for your next follow-up.\nSend it to a teammate who \"just checks in\" every week.\n\nComment VALUE if you'll try this on your next call.\n\n#TheMarketingGuru #SalesTips #FollowUp #SalesTraining #FieldSales",
-  "first_comment": "What's the most useful thing you've ever brought to a follow-up call?",
-  "yt_title": "Stop Saying \"Just Checking In\" (Say This Instead) | Sales Tips",
-  "yt_description": "The follow-up line top salespeople use instead of \"just checking in\": bring one useful idea every time. Daily sales lessons from 25 years in field sales by Vinay Pandey, The Marketing Guru.\n\n#SalesTips #FollowUp #SalesTraining #SalesLessonDaily #Shorts"
+  "caption": "\"Just checking in\" bolna band karo. Customer ko lagta hai aapko bas kuch chahiye, aur unhe milta kuch nahi.\n\nTop salesman har follow-up mein ek kaam ki cheez lekar jaata hai: ek idea, ek jaankari, unke goal ka ek solution. Phir customer khud aapke call ka intezaar karta hai.\n\nSAVE karo apne agle follow-up ke liye.\nUs teammate ko bhejo jo har hafte \"just checking in\" karta hai.\n\nComment VALUE agar agle call pe try karoge.\n\n#TheMarketingGuru #SalesTipsHindi #SalesTraining #FollowUp #HindiMotivation",
+  "first_comment": "Aapne kabhi follow-up mein customer ko kya kaam ki cheez di thi? Comment mein batao.",
+  "yt_title": "\"Just Checking In\" Bolna Band Karo | Sales Tips in Hindi",
+  "yt_tags": [
+    "sales tips in hindi",
+    "follow up kaise kare",
+    "sales training hindi",
+    "field sales",
+    "marketing guru"
+  ],
+  "speed": 1.12
 }

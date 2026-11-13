@@ -145,17 +145,17 @@ def logo():
 
 # ------------------------------------------------------------------ scenes
 def scene_fns(spec):
-    S = {}
+    S = {}; U = ui(spec)
     h = layout(spec['hook']['text'], 'bebas', 170, maxlines=4)
     def hook(lay, u, d):
         top = 900 - h['h'] // 2
-        pill(lay, top - 90, f"SALES LESSON #{spec['n']}", GOLD, a=ease(u / 0.3))
+        pill(lay, top - 90, spec['hook'].get('label', U['lesson'].format(n=spec['n'])), GOLD, a=ease(u / 0.3))
         draw_kinetic(lay, h, top, u, 0.1, stagger=0.11)
     S['hook'] = hook
     m = layout(spec['mistake']['text'], 'bebas', 130, maxlines=4)
     def mistake(lay, u, d):
         top = 920 - m['h'] // 2
-        pill(lay, top - 100, spec['mistake'].get('label', 'THE MISTAKE'), RED, filled=True, a=ease(u / 0.3))
+        pill(lay, top - 100, spec['mistake'].get('label', U['mistake']), RED, filled=True, a=ease(u / 0.3))
         end = draw_kinetic(lay, m, top, u, 0.15, base=(225, 225, 225), accent=RED)
         s = ease((u - end - 0.25) / 0.45); dr = ImageDraw.Draw(lay)
         for li, line in enumerate(m['lines']):
@@ -166,7 +166,7 @@ def scene_fns(spec):
     fx = layout(spec['fix']['text'], 'bebas', 125, maxw=820, maxlines=5)
     def fix(lay, u, d):
         top = 930 - fx['h'] // 2; a = ease(u / 0.35)
-        pill(lay, top - 120, spec['fix'].get('label', 'SAY THIS INSTEAD'), GOLD, filled=True, a=a)
+        pill(lay, top - 120, spec['fix'].get('label', U['fix']), GOLD, filled=True, a=a)
         dr = ImageDraw.Draw(lay); bw = 940
         dr.rounded_rectangle(((W - bw) // 2, top - 40, (W + bw) // 2, top + fx['h'] + 30), radius=28,
                              fill=(11, 31, 58, int(200 * a)), outline=GOLD + (int(255 * a),), width=5)
@@ -175,29 +175,34 @@ def scene_fns(spec):
     wy = layout(spec['why']['text'], 'bebas', 120, maxlines=5)
     def why(lay, u, d):
         top = 920 - wy['h'] // 2
-        pill(lay, top - 100, spec['why'].get('label', 'WHY IT WORKS'), WHITE, a=ease(u / 0.3))
+        pill(lay, top - 100, spec['why'].get('label', U['why']), WHITE, a=ease(u / 0.3))
         draw_kinetic(lay, wy, top, u, 0.15, stagger=0.08)
     S['why'] = why
     sh = layout(spec['cta']['share'], 'pop', 42, maxw=840, maxlines=3, minsize=32)
     def cta(lay, u, d):
         dr = ImageDraw.Draw(lay); a = ease(u / 0.35)
-        sv = layout('SAVE *THIS.*', 'bebas', 190)
+        sv = layout(U['save'], 'bebas', 190)
         draw_kinetic(lay, sv, 470, u, 0.0, stagger=0.15)
         draw_kinetic(lay, sh, 720, u, 0.5, stagger=0.04, shadow=False)
         b = ease((u - 1.0) / 0.4); kw = spec['cta']['keyword']; f = font('bebas', 110); pw = tw(kw, f) + 120
         top = 960 + int(40 * (1 - b))
         dr.rounded_rectangle((90, top - 30, W - 90, top + 300), radius=40, fill=(11, 31, 58, int(215 * b)), outline=GOLD + (int(130 * b),), width=3)
-        dr.text((W // 2, top + 20), 'COMMENT', font=font('cinzel', 34), fill=GOLD + (int(255 * b),), anchor='mm')
+        dr.text((W // 2, top + 20), U['comment'], font=font('cinzel', 34), fill=GOLD + (int(255 * b),), anchor='mm')
         dr.rounded_rectangle(((W - pw) // 2, top + 55, (W + pw) // 2, top + 195), radius=70, fill=GOLD + (int(255 * b),))
         dr.text((W // 2, top + 128), kw, font=f, fill=NAVY + (int(255 * b),), anchor='mm')
-        dr.text((W // 2, top + 245), spec['cta'].get('ask', 'if you will try this today'), font=font('pop', 30), fill=(255, 255, 255, int(220 * b)), anchor='mm')
+        dr.text((W // 2, top + 245), spec['cta'].get('ask', U['ask']), font=font('pop', 30), fill=(255, 255, 255, int(220 * b)), anchor='mm')
         c = ease((u - 1.6) / 0.4)
         dr.text((W // 2, 1390), 'FOLLOW @marketingguru_vp', font=font('cinzel', 36), fill=GOLD + (int(255 * c),), anchor='mm')
-        dr.text((W // 2, 1440), '25 years of field lessons. One a day.', font=font('pop', 28), fill=(255, 255, 255, int(200 * c)), anchor='mm')
+        dr.text((W // 2, 1440), U['tag'], font=font('pop', 28), fill=(255, 255, 255, int(200 * c)), anchor='mm')
     S['cta'] = cta
     return S
 
 ORDER = ['hook', 'mistake', 'fix', 'why', 'cta']
+UI = {'en': dict(lesson='SALES LESSON #{n}', mistake='THE MISTAKE', fix='SAY THIS INSTEAD', why='WHY IT WORKS', save='SAVE *THIS.*',
+                 comment='COMMENT', ask='if you will try this today', tag='25 years of field lessons. One a day.'),
+      'hi': dict(lesson='AAJ KA MANTRA #{n}', mistake='GALTI', fix='YEH BOLO', why='KYUN KAAM KARTA HAI', save='SAVE *KARO.*',
+                 comment='COMMENT KARO', ask='agar aaj try karoge', tag='25 saal ka field experience. Roz ek sabak.')}
+def ui(spec): return UI['hi' if spec.get('lang', 'en').startswith('hi') else 'en']
 MIN = {'hook': 2.8, 'mistake': 3.0, 'fix': 3.6, 'why': 3.0, 'cta': 4.5}
 
 # ------------------------------------------------------------------ audio
@@ -205,9 +210,9 @@ def tts(spec, outdir):
     from kokoro_onnx import Kokoro
     import soundfile as sf
     k = Kokoro(os.path.join(ROOT, 'models', 'kokoro.onnx'), os.path.join(ROOT, 'models', 'voices-v1.0.bin'))
-    voice = spec.get('voice', 'am_michael'); clips = {}
+    hi = spec.get('lang', 'en').startswith('hi'); voice = spec.get('voice', 'hm_omega' if hi else 'am_michael'); clips = {}
     for s in ORDER:
-        a, sr = k.create(spec[s]['vo'], voice=voice, speed=spec.get('speed', 1.05), lang='en-us')
+        a, sr = k.create(spec[s]['vo'], voice=voice, speed=spec.get('speed', 1.05), lang='hi' if hi else 'en-us')
         nz = np.where(np.abs(a) > 0.01)[0]; clips[s] = a[max(nz[0] - 200, 0): nz[-1] + 1200]
     return clips, 24000
 
