@@ -1,0 +1,5 @@
+models/
+__pycache__/
+*.part.mp4
+reels/*_preview.png
+reels/*_fix.jpg
