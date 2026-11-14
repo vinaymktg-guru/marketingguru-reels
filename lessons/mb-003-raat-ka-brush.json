@@ -1,0 +1,32 @@
+{
+  "slug": "mb-003-raat-ka-brush",
+  "n": 3,
+  "brand": "mb",
+  "lang": "hi",
+  "theme": "grid",
+  "chords": 2,
+  "speed": 1.08,
+  "hook": {
+    "text": "Raat ka *brush* mat chhodiye.",
+    "vo": "रात का ब्रश मत छोड़िए।"
+  },
+  "mistake": {
+    "text": "Subah brush, raat ko \"kal kar lenge.\"",
+    "vo": "सुबह ब्रश, और रात को... कल कर लेंगे। यही आदत बन जाती है।"
+  },
+  "fix": {
+    "text": "*Subah aur raat,* din mein do baar brush. *Saath mein* aap bhi karein.",
+    "vo": "सुबह और रात, दिन में दो बार ब्रश। साथ में आप भी कीजिए।"
+  },
+  "why": {
+    "text": "Roz ki aadat se daant *saaf* rehte hain. *Apne doctor se salah zaroor lein.*",
+    "vo": "रोज़ की आदत से दाँत साफ़ रहते हैं। अपने डॉक्टर से सलाह ज़रूर लें।"
+  },
+  "cta": {
+    "share": "Us parent ko bhejein jinke ghar raat ka brush roz ki ladai hai.",
+    "keyword": "BRUSH",
+    "vo": "सेव कीजिए, और उस पेरेंट को भेजिए जिनके घर रात का ब्रश रोज़ की लड़ाई है।"
+  },
+  "caption": "Raat ka brush mat chhodiye. Subah aur raat, din mein do baar brush ki aadat bachpan se hi banti hai.\n\nKya karein: sone se pehle brush ko routine ka hissa banayein aur saath mein khud bhi karein. Kya na karein: \"kal kar lenge\" kehkar taalna. Yeh sirf aam jaankari hai.\n\nSAVE karein, aaj raat se shuru karne ke liye.\nUs parent ko bhejein jinke ghar raat ka brush roz ki ladai hai.\n\nApne doctor se salah zaroor lein.\n\n#MeraBachchaIndia #ParentingTipsHindi #BachchonKiParvarish #ParentingIndia #MomLife",
+  "first_comment": "Aapke ghar mein raat ka brush aasaan hota hai ya roz manana padta hai?"
+}

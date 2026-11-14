@@ -1,0 +1,32 @@
+{
+  "slug": "mb-002-tulna-nahi-milestone-diary",
+  "n": 2,
+  "brand": "mb",
+  "lang": "hi",
+  "theme": "streaks",
+  "chords": 1,
+  "speed": 1.08,
+  "hook": {
+    "text": "Har bachcha *apni raftaar* se badhta hai.",
+    "vo": "हर बच्चा अपनी रफ़्तार से बढ़ता है।"
+  },
+  "mistake": {
+    "text": "\"Padosi ka bachcha to sab kar leta hai.\"",
+    "vo": "पड़ोसी का बच्चा तो सब कर लेता है। ऐसी तुलना से बच्चे का मन छोटा होता है।"
+  },
+  "fix": {
+    "text": "*Milestone diary* banayein. Har *nayi cheez* likhein jo bachche ne seekhi.",
+    "vo": "एक माइलस्टोन डायरी बनाइए। हर नई चीज़ लिखिए, जो बच्चे ने सीखी।"
+  },
+  "why": {
+    "text": "Apni progress dekhkar bachche ka *bharosa badhta hai.* Sawaal ho to *doctor se poochhein.*",
+    "vo": "अपनी प्रोग्रेस देखकर बच्चे का भरोसा बढ़ता है। कोई सवाल हो, तो अपने डॉक्टर से पूछिए।"
+  },
+  "cta": {
+    "share": "Us parent ko bhejein jo apne bachche ki tulna doosron se karte hain.",
+    "keyword": "DIARY",
+    "vo": "सेव कीजिए, और उस पेरेंट को भेजिए जिन्हें ये सुनना ज़रूरी है।"
+  },
+  "caption": "Har bachcha apni raftaar se badhta hai. Tulna nahi, taareef kijiye.\n\nEk chhoti \"milestone diary\" banayein aur har nayi cheez likhein jo bachche ne seekhi: naya shabd, khud joote pehenna, cycle chalana. Apni progress dekhkar bachche ka bharosa badhta hai. Bachche ke vikas ko lekar koi sawaal ho to apne doctor se salah zaroor lein.\n\nSAVE karein, aaj se diary shuru karne ke liye.\nUs parent ko bhejein jo apne bachche ki tulna doosron se karte hain.\n\n#MeraBachchaIndia #BachchonKiParvarish #ParentingTipsHindi #ParentingIndia #MomLife",
+  "first_comment": "Is hafte aapke bachche ne kaun si nayi cheez seekhi?"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "mb-001-roz-10-minute-bachche-ke-naam",
+  "n": 1,
+  "brand": "mb",
+  "lang": "hi",
+  "theme": "bokeh",
+  "chords": 0,
+  "speed": 1.08,
+  "hook": {
+    "text": "Roz *10 minute* sirf bachche ke naam.",
+    "vo": "रोज़ दस मिनट, सिर्फ़ बच्चे के नाम।"
+  },
+  "mistake": {
+    "text": "\"Haan beta, bolo...\" aur nazar phone par.",
+    "vo": "हाँ बेटा, बोलो... और नज़र फ़ोन पर। बच्चा समझ जाता है कि कोई सुन नहीं रहा।"
+  },
+  "fix": {
+    "text": "Phone side mein. *Aankhon mein dekhkar* poochhein: *aaj kya achha laga?*",
+    "vo": "फ़ोन एक तरफ़ रखिए। आँखों में देखकर पूछिए, आज क्या अच्छा लगा?"
+  },
+  "why": {
+    "text": "Jab aap *poora dhyaan* dete hain, bachcha *khulkar baat* karta hai.",
+    "vo": "जब आप पूरा ध्यान देते हैं, तो बच्चा खुलकर बात करता है।"
+  },
+  "cta": {
+    "share": "Us mummy ya papa ko bhejein jo din bhar bhaag-daud mein rehte hain.",
+    "keyword": "DHYAAN",
+    "vo": "सेव कीजिए, और उस मम्मी या पापा को भेजिए जो दिन भर भाग-दौड़ में रहते हैं।"
+  },
+  "caption": "Roz 10 minute, sirf bachche ke naam. Phone side mein, poora dhyaan bachche par.\n\nAankhon mein dekhkar bas ek sawaal poochhein: \"Aaj kya achha laga?\" Jab bachche ko lagta hai ki aap sach mein sun rahe hain, woh khulkar baat karta hai.\n\nSAVE karein, aaj shaam try karne ke liye.\nUs mummy ya papa ko bhejein jo din bhar bhaag-daud mein rehte hain.\n\n#MeraBachchaIndia #ParentingTipsHindi #BachchonKiParvarish #ParentingIndia #MomLife",
+  "first_comment": "Aap apne bachche se roz kaun sa ek sawaal poochhte hain?"
+}
