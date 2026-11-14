@@ -1,0 +1,32 @@
+{
+  "slug": "ba-002-whatsapp-offer-message",
+  "n": 2,
+  "brand": "ba",
+  "lang": "hi",
+  "theme": "streaks",
+  "chords": 2,
+  "speed": 1.12,
+  "hook": {
+    "text": "WhatsApp offer message *AI se* likhwao.",
+    "vo": "व्हाट्सऐप ऑफ़र मैसेज, ए आई से लिखवाओ।"
+  },
+  "mistake": {
+    "text": "Lamba message *copy-paste.* Koi padhta nahi.",
+    "vo": "लंबा मैसेज कॉपी पेस्ट करना। कोई पढ़ता ही नहीं।"
+  },
+  "fix": {
+    "text": "\"Write a WhatsApp offer message for my *saree shop.* Under 40 words, Hinglish, *one clear offer.*\"",
+    "vo": "यह प्रॉम्प्ट लिखो: मेरी साड़ी शॉप के लिए व्हाट्सऐप ऑफ़र मैसेज लिखो। चालीस शब्दों से कम, हिंग्लिश में, एक साफ़ ऑफ़र।"
+  },
+  "why": {
+    "text": "Chhota message, *ek offer,* ek action. Bhejne se pehle *khud padho.*",
+    "vo": "छोटा मैसेज, एक ऑफ़र, एक एक्शन। भेजने से पहले खुद ज़रूर पढ़ो।"
+  },
+  "cta": {
+    "share": "Us dukaandaar dost ko bhejo jo lambe message bhejta hai.",
+    "keyword": "OFFER",
+    "vo": "सेव करो, और उस दुकानदार दोस्त को भेजो जो लंबे मैसेज भेजता है।"
+  },
+  "caption": "WhatsApp offer message AI se likhwao. Lamba copy-paste message koi nahi padhta.\n\nApne AI assistant mein yeh likho: \"Write a WhatsApp offer message for my saree shop. Under 40 words, Hinglish, one clear offer.\" Saree shop ki jagah apna business likho. Bhejne se pehle offer, date aur number khud check karo.\n\nSAVE karo agle offer ke liye.\nUs dukaandaar dost ko bhejo jo lambe message bhejta hai.\n\nIs reel ki voice aur visuals AI se bane hain.\n\n#BharatAI #AITipsHindi #AIForBusiness #ChatGPTHindi #SalesTips",
+  "first_comment": "Aap kis business ke liye offer message likhwana chahoge?"
+}

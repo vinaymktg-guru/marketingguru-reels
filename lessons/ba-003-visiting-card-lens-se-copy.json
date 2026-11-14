@@ -1,0 +1,33 @@
+{
+  "slug": "ba-003-visiting-card-lens-se-copy",
+  "n": 3,
+  "brand": "ba",
+  "lang": "hi",
+  "theme": "grid",
+  "chords": 3,
+  "speed": 1.12,
+  "hook": {
+    "text": "Visiting card *type* karna band karo.",
+    "vo": "विज़िटिंग कार्ड टाइप करना बंद करो।"
+  },
+  "mistake": {
+    "text": "Har card ka naam aur number *haath se* type karna.",
+    "vo": "हर कार्ड का नाम और नंबर हाथ से टाइप करना। समय भी जाता है, गलती भी होती है।"
+  },
+  "fix": {
+    "label": "YEH KARO",
+    "text": "Card ki photo *Google Photos* mein kholo. *Lens* chuno. Text select karke *copy.*",
+    "vo": "कार्ड की फ़ोटो गूगल फ़ोटोज़ में खोलो। लेंस चुनो। टेक्स्ट सेलेक्ट करो, और कॉपी।"
+  },
+  "why": {
+    "text": "Naam, number, email *seedha copy.* Save se pehle *ek baar check* karo.",
+    "vo": "नाम, नंबर, ईमेल सीधा कॉपी। सेव करने से पहले एक बार चेक ज़रूर करो।"
+  },
+  "cta": {
+    "share": "Us dost ko bhejo jiske paas visiting cards ka dher hai.",
+    "keyword": "LENS",
+    "vo": "सेव करो, और उस दोस्त को भेजो जिसके पास विज़िटिंग कार्ड्स का ढेर है।"
+  },
+  "caption": "Visiting card type karna band karo. Photo se text seedha copy ho sakta hai.\n\nTool in 30 sec: card ki photo Google Photos mein kholo, Google Lens chuno, phir jo text chahiye use select karke copy karo. Naam, number aur email apne contacts ya sheet mein paste karo. Save karne se pehle ek baar check zaroor karo.\n\nSAVE karo agli meeting ke baad ke liye.\nUs dost ko bhejo jiske paas visiting cards ka dher hai.\n\nIs reel ki voice aur visuals AI se bane hain.\n\n#BharatAI #AITipsHindi #AIForBusiness #SalesTips #ChatGPTHindi",
+  "first_comment": "Aap visiting cards ka data abhi kaise save karte ho?"
+}

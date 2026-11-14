@@ -1,0 +1,32 @@
+{
+  "slug": "ba-004-call-se-pehle-5-sawal",
+  "n": 4,
+  "brand": "ba",
+  "lang": "hi",
+  "theme": "bokeh",
+  "chords": 0,
+  "speed": 1.12,
+  "hook": {
+    "text": "Call se pehle *AI se 5 sawal* maango.",
+    "vo": "कॉल से पहले, ए आई से पाँच सवाल माँगो।"
+  },
+  "mistake": {
+    "text": "Bina taiyaari call, seedha *product ki baat.*",
+    "vo": "बिना तैयारी कॉल करना, और सीधा प्रोडक्ट की बात।"
+  },
+  "fix": {
+    "text": "\"I sell *water purifiers* to offices. Give *5 questions* for my first call.\"",
+    "vo": "यह प्रॉम्प्ट लिखो: मैं ऑफ़िस को वॉटर प्यूरीफ़ायर बेचता हूँ। पहली कॉल के लिए पाँच सवाल दो।"
+  },
+  "why": {
+    "text": "Sawal poochhoge to *customer bolega.* Aap *zaroorat* samjhoge.",
+    "vo": "सवाल पूछोगे तो कस्टमर बोलेगा। और आप उसकी ज़रूरत समझोगे।"
+  },
+  "cta": {
+    "share": "Us teammate ko bhejo jo call pe sirf product batata hai.",
+    "keyword": "SAWAL",
+    "vo": "सेव करो, और उस टीममेट को भेजो जो कॉल पे सिर्फ़ प्रोडक्ट बताता है।"
+  },
+  "caption": "Call se pehle AI se 5 sawal maango. Bina taiyaari call karoge to baat sirf product pe atak jaati hai.\n\nApne AI assistant mein yeh likho: \"I sell water purifiers to offices. Give 5 questions for my first call.\" Apna product aur customer likho. Jo sawal sahi lagein unhe chuno aur apni bhasha mein poochho.\n\nSAVE karo agle call se pehle ke liye.\nUs teammate ko bhejo jo call pe sirf product batata hai.\n\nIs reel ki voice aur visuals AI se bane hain.\n\n#BharatAI #AITipsHindi #SalesTips #AIForBusiness #ChatGPTHindi",
+  "first_comment": "Pehli call pe aap sabse pehle kaun sa sawal poochhte ho?"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "ba-001-mehenga-hai-ka-jawab",
+  "n": 1,
+  "brand": "ba",
+  "lang": "hi",
+  "theme": "bokeh",
+  "chords": 1,
+  "speed": 1.12,
+  "hook": {
+    "text": "Customer bola *\"mehenga hai\"?* AI se jawab likhwao.",
+    "vo": "कस्टमर बोला, महँगा है? ए आई से जवाब लिखवाओ।"
+  },
+  "mistake": {
+    "text": "Ghabrakar turant *discount* de dena.",
+    "vo": "घबराकर तुरंत डिस्काउंट दे देना। यही पुराना तरीका है।"
+  },
+  "fix": {
+    "text": "\"Customer says price is high. Write *3 polite Hinglish replies.* No discount.\"",
+    "vo": "अपने ए आई असिस्टेंट में लिखो: कस्टमर कहता है दाम ज़्यादा है। तीन विनम्र हिंग्लिश जवाब लिखो। डिस्काउंट नहीं।"
+  },
+  "why": {
+    "text": "*3 jawab* turant taiyaar. Best wala *apne shabdon mein* bolo.",
+    "vo": "तीन जवाब तुरंत तैयार। जो सबसे अच्छा लगे, उसे अपने शब्दों में बोलो।"
+  },
+  "cta": {
+    "share": "Us teammate ko bhejo jo har baar discount de deta hai.",
+    "keyword": "JAWAB",
+    "vo": "सेव करो, और उस टीममेट को भेजो जो हर बार डिस्काउंट दे देता है।"
+  },
+  "caption": "Customer bola \"mehenga hai\"? Turant discount mat do. Pehle AI se jawab likhwao.\n\nApne AI assistant mein yeh likho: \"Customer says price is high. Write 3 polite Hinglish replies. No discount.\" Teen jawab milenge. Jo sahi lage use apne shabdon mein bolo, AI ka jawab aankh band karke copy mat karo.\n\nSAVE karo agle price objection ke liye.\nUs teammate ko bhejo jo har baar discount de deta hai.\n\nIs reel ki voice aur visuals AI se bane hain.\n\n#BharatAI #AITipsHindi #SalesTips #ChatGPTHindi #AIForBusiness",
+  "first_comment": "Aapko sabse zyada kaun sa objection sunne ko milta hai?"
+}
