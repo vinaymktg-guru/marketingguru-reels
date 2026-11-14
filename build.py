@@ -22,7 +22,7 @@ W, H, FPS = 1080, 1920, 30
 NAVY = (11, 31, 58); GOLD = (245, 179, 1); WHITE = (255, 255, 255); RED = (226, 58, 58)
 # ---- brands: add "brand": "mb" or "ba" to a lesson JSON (default "mg" = The Marketing Guru)
 BRANDS = {
- 'mg': dict(navy=(11, 31, 58), accent=(245, 179, 1), warm=(40, 12, 22), deep=(6, 14, 30), initials='VP', arrow=True,
+ 'mg': dict(navy=(11, 31, 58), accent=(245, 179, 1), warm=(40, 12, 22), deep=(6, 14, 30), initials='VP', arrow=True, logo='vp_logo.png',
             name='THE MARKETING GURU', sub='Vinay Pandey  ·  @marketingguru_vp', handle='@marketingguru_vp', voice='hm_omega', ui={}),
  'mb': dict(navy=(64, 10, 44), accent=(255, 150, 196), warm=(92, 20, 60), deep=(30, 5, 22), initials='MB', arrow=False,
             name='MERA BACHCHA INDIA', sub='@merabachcha_india', handle='@merabachcha_india', voice='hf_alpha',
@@ -151,15 +151,21 @@ def make_bg(theme, seed):
 
 def logo():
     L = Image.new('RGBA', (W, 260), (0, 0, 0, 0)); d = ImageDraw.Draw(L); x, y = 70, 110
-    d.ellipse((x, y, x + 96, y + 96), outline=GOLD + (255,), width=4)
-    f = font('cinzel', 44); b = d.textbbox((0, 0), B['initials'], font=f)
-    d.text((x + 48 - (b[2] + b[0]) / 2, y + 50 - (b[3] + b[1]) / 2), B['initials'], font=f, fill=GOLD + (255,))
-    if B['arrow']:
-        d.line((x + 74, y + 30, x + 86, y + 14), fill=GOLD + (255,), width=4)
-        d.polygon([(x + 90, y + 8), (x + 78, y + 13), (x + 88, y + 22)], fill=GOLD + (255,))
-    d.text((x + 116, y + 18), B['name'], font=font('cinzel', 26), fill=GOLD + (255,))
-    d.text((x + 116, y + 54), B['sub'], font=font('pop', 22), fill=(255, 255, 255, 230))
-    L.putalpha(L.getchannel('A').point(lambda v: int(v * 0.9))); return L
+    p = os.path.join(ROOT, 'assets', B.get('logo', ''))
+    if B.get('logo') and os.path.exists(p):   # original logo file
+        im = Image.open(p).convert('RGBA'); hh = 112; im = im.resize((int(im.width * hh / im.height), hh), Image.LANCZOS)
+        L.alpha_composite(im, (x - 8, y - 12)); tx = x - 8 + im.width + 18
+    else:
+        d.ellipse((x, y, x + 96, y + 96), outline=GOLD + (255,), width=4)
+        f = font('cinzel', 44); b = d.textbbox((0, 0), B['initials'], font=f)
+        d.text((x + 48 - (b[2] + b[0]) / 2, y + 50 - (b[3] + b[1]) / 2), B['initials'], font=f, fill=GOLD + (255,))
+        if B['arrow']:
+            d.line((x + 74, y + 30, x + 86, y + 14), fill=GOLD + (255,), width=4)
+            d.polygon([(x + 90, y + 8), (x + 78, y + 13), (x + 88, y + 22)], fill=GOLD + (255,))
+        tx = x + 116
+    d.text((tx, y + 18), B['name'], font=font('cinzel', 26), fill=GOLD + (255,))
+    d.text((tx, y + 54), B['sub'], font=font('pop', 22), fill=(255, 255, 255, 230))
+    L.putalpha(L.getchannel('A').point(lambda v: int(v * 0.95))); return L
 
 # ------------------------------------------------------------------ scenes
 def scene_fns(spec):
