@@ -7,3 +7,5 @@
 ## 14 Nov 2026 – original VP logo
 Vinay sent the original gold/silver VP logo ("use this Original Logo wherever needed"). assets/vp_logo_original.png = his file as sent;
 assets/vp_logo.png = same with the stray navy haze and bottom bar removed. Marketing Guru reels now draw this file top-left (build.py logo()).
+Later the same day he sent the full lockup on navy (assets/vp_lockup_navy_original.png) and asked for a transparent version:
+assets/vp_lockup_transparent.png = full logo with text; assets/vp_logo.png = VP mark only, complete (replaces the cut-off one). Made for dark backgrounds.
