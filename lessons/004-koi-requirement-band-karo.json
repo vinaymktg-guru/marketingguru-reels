@@ -1,0 +1,42 @@
+{
+  "slug": "004-koi-requirement-band-karo",
+  "n": 4,
+  "lang": "hi",
+  "voice": "hm_omega",
+  "theme": "bokeh",
+  "chords": 0,
+  "hook": {
+    "text": "*\"Sir, koi requirement?\"* bolna band karo.",
+    "vo": "सर, कोई रिक्वायरमेंट? ये बोलना बंद करो।"
+  },
+  "mistake": {
+    "text": "\"Sir, koi requirement ho to bataiye.\" Jawab: \"Abhi nahi.\"",
+    "vo": "सर, कोई रिक्वायरमेंट हो तो बताइए। जवाब आता है, अभी नहीं।"
+  },
+  "fix": {
+    "text": "\"Sir, pichhli baar aapne *stock out* bola tha. *Abhi kya situation* hai?\"",
+    "vo": "सर, पिछली बार आपने स्टॉक आउट बोला था। अभी क्या सिचुएशन है?"
+  },
+  "why": {
+    "text": "Customer ki *problem se shuru karo,* to baat *uski* ho jaati hai.",
+    "vo": "कस्टमर की प्रॉब्लम से शुरू करो, तो बात उसकी हो जाती है।"
+  },
+  "cta": {
+    "share": "Us teammate ko bhejo jo har call pe requirement poochta hai.",
+    "keyword": "PROBLEM",
+    "ask": "agar kal ka opening badloge",
+    "vo": "सेव करो, और उस टीममेट को भेजो जो हर कॉल पे यही पूछता है। और अगली बार..."
+  },
+  "caption": "\"Sir, koi requirement?\" bolna band karo. Is opening ka sabse aasaan jawab hai \"abhi nahi\", aur call wahin khatam.\n\nAchha sales opening customer ki problem se shuru hota hai. Pichhli visit ka note yaad karo: \"Sir, pichhli baar aapne stock out bola tha. Abhi kya situation hai?\" Ab baat aapke product ki nahi, unki zaroorat ki hai.\n\nSAVE karo kal ki pehli call se pehle.\nUs teammate ko bhejo jo har call pe requirement poochta hai.\n\nComment PROBLEM agar kal ka opening badloge.\n\n#TheMarketingGuru #SalesTipsHindi #SalesTraining #FieldSales #HindiMotivation",
+  "first_comment": "Aapki call ka pehla sentence kya hota hai? Comment mein likho.",
+  "yt_title": "\"Sir, Koi Requirement?\" Bolna Band Karo | Sales Tips in Hindi",
+  "yt_tags": [
+    "sales tips in hindi",
+    "sales call opening hindi",
+    "customer se baat kaise kare",
+    "field sales",
+    "sales training hindi"
+  ],
+  "yt_description": "Sales call opening in Hindi: \"koi requirement?\" ki jagah customer ki problem se baat kaise shuru kare. Daily sales lessons from 25 years in field sales by Vinay Pandey, The Marketing Guru.\n\n#SalesTips #FieldSales #SalesLessonDaily #Shorts",
+  "speed": 1.12
+}

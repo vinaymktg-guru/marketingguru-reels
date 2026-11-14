@@ -1,0 +1,42 @@
+{
+  "slug": "008-bahut-bolte-ho-chup-raho",
+  "n": 8,
+  "lang": "hi",
+  "voice": "hm_omega",
+  "theme": "grid",
+  "chords": 0,
+  "hook": {
+    "text": "*Bahut bolte* ho, *kam bechte* ho.",
+    "vo": "बहुत बोलते हो, कम बेचते हो।"
+  },
+  "mistake": {
+    "text": "Customer bol raha hai, aur aap beech mein pitch shuru.",
+    "vo": "कस्टमर बोल रहा है, और आप बीच में अपना पिच शुरू कर देते हो।"
+  },
+  "fix": {
+    "text": "Ek sawaal pucho: *\"Aapke liye sabse zaroori kya hai?\"* Phir *3 second chup.*",
+    "vo": "एक सवाल पूछो, आपके लिए सबसे ज़रूरी क्या है? फिर तीन सेकंड चुप।"
+  },
+  "why": {
+    "text": "Chup rahoge to *customer khud batayega* ki *use kya chahiye.*",
+    "vo": "चुप रहोगे, तो कस्टमर खुद बताएगा कि उसे क्या चाहिए।"
+  },
+  "cta": {
+    "share": "Us teammate ko bhejo jo customer ko bolne hi nahi deta.",
+    "keyword": "CHUP",
+    "ask": "agar kal 3 second chup rahoge",
+    "vo": "सेव करो, और उस टीममेट को भेजो जो कस्टमर को बोलने ही नहीं देता। क्योंकि..."
+  },
+  "caption": "Bahut bolte ho, kam bechte ho. Sales mein sabse powerful skill hai: sawaal poochna aur phir chup rehna.\n\nJab aap beech mein pitch shuru karte ho, customer apni asli zaroorat batana band kar deta hai. Ek sawaal poocho: \"Aapke liye sabse zaroori kya hai?\" Phir 3 second chup. Jo customer bolega, wahi aapka closing point hai.\n\nSAVE karo kal ki meeting ke liye.\nUs teammate ko bhejo jo customer ko bolne hi nahi deta.\n\nComment CHUP agar kal 3 second chup rahoge.\n\n#TheMarketingGuru #SalesTipsHindi #SalesTraining #FieldSales #SalesMotivation",
+  "first_comment": "Kabhi chup rehne se aapko koi order mila? Comment mein batao.",
+  "yt_title": "Bahut Bolte Ho, Kam Bechte Ho | Sales Tips in Hindi",
+  "yt_tags": [
+    "sales tips in hindi",
+    "listening skills hindi",
+    "sales closing hindi",
+    "sales training hindi",
+    "field sales"
+  ],
+  "yt_description": "Sales tips in Hindi: sawaal poochke 3 second chup rehna, listening se closing kaise hoti hai. Daily sales lessons from 25 years in field sales by Vinay Pandey, The Marketing Guru.\n\n#SalesTips #SalesClosing #SalesLessonDaily #Shorts",
+  "speed": 1.12
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "007-ek-line-pitch",
+  "n": 7,
+  "lang": "hi",
+  "voice": "hm_omega",
+  "theme": "bokeh",
+  "chords": 3,
+  "hook": {
+    "text": "*Ek line* mein batao: *kya karte ho?*",
+    "vo": "एक लाइन में बताओ, आप क्या करते हो?"
+  },
+  "mistake": {
+    "text": "Company history, 20 products, 5 minute ka lecture.",
+    "vo": "कंपनी हिस्ट्री, बीस प्रोडक्ट्स, पाँच मिनट का लेक्चर। कस्टमर फोन देखने लगता है।"
+  },
+  "fix": {
+    "text": "Formula: *kiski madad* + *kaunsi problem* + *kaise.* Bas 10 second.",
+    "vo": "फॉर्मूला: किसकी मदद, कौन सी प्रॉब्लम, और कैसे। बस दस सेकंड।"
+  },
+  "why": {
+    "text": "Jo *10 second* mein samajh aaye, wahi *customer yaad rakhta hai.*",
+    "vo": "जो दस सेकंड में समझ आए, वही कस्टमर याद रखता है।"
+  },
+  "cta": {
+    "share": "Us teammate ko bhejo jiska pitch 5 minute chalta hai.",
+    "keyword": "PITCH",
+    "ask": "agar apni ek line likhoge",
+    "vo": "सेव करो, और उस टीममेट को भेजो जिसका पिच पाँच मिनट चलता है। अब बताओ..."
+  },
+  "caption": "Ek line mein batao aap kya karte ho. Agar 10 second mein samjha nahi paaye, customer aage badh jaata hai.\n\nElevator pitch ka simple formula: kiski madad karte ho + kaunsi problem solve karte ho + kaise. Company history aur 20 products baad mein. Pehle woh ek line jo customer yaad rakhe.\n\nSAVE karo apna pitch likhne ke liye.\nUs teammate ko bhejo jiska pitch 5 minute chalta hai.\n\nComment PITCH agar apni ek line likhoge.\n\n#TheMarketingGuru #MarketingTipsHindi #SalesTipsHindi #IndianEntrepreneur #SalesTraining",
+  "first_comment": "Apna 10 second ka pitch yahan likho. Main padhunga.",
+  "yt_title": "10 Second Ka Pitch Kaise Banaye | Marketing Tips in Hindi",
+  "yt_tags": [
+    "marketing tips in hindi",
+    "elevator pitch hindi",
+    "apna business kaise samjhaye",
+    "sales tips in hindi",
+    "marketing guru"
+  ],
+  "yt_description": "Elevator pitch in Hindi: 10 second mein apna kaam samjhane ka simple formula, marketing aur sales ke liye. Daily sales lessons from 25 years in field sales by Vinay Pandey, The Marketing Guru.\n\n#MarketingTips #ElevatorPitch #SalesLessonDaily #Shorts",
+  "speed": 1.12
+}

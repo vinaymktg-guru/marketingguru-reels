@@ -2,12 +2,12 @@
 Common, universal sales lessons (B2B, field sales, retail, pharma, FMCG). One per reel. Mark used topics by the lesson file that used them (lessons/NNN-*.json). Never invent statistics; use field wisdom framing.
 
 1. "Just checking in" follow-ups -> bring one useful thing (USED 001)
-2. Talking more than listening -> ask, then stay silent 3 seconds
+2. Talking more than listening -> ask, then stay silent 3 seconds (USED 008)
 3. Pitching features -> sell the customer's result
-4. Discounting at the first objection -> ask what's behind the price question
+4. Discounting at the first objection -> ask what's behind the price question (USED 003)
 5. "Let me think about it" -> find the real doubt
-6. Ending a call without a next step -> always book the next date
-7. Opening with "Any requirement, sir?" -> open with their problem
+6. Ending a call without a next step -> always book the next date (USED 006)
+7. Opening with "Any requirement, sir?" -> open with their problem (USED 004)
 8. Arguing with an objection -> agree, then ask one more question
 9. Visiting only friendly customers -> spend time where the growth is
 10. Writing reports at month-end -> plan the first week
@@ -43,13 +43,13 @@ Common, universal sales lessons (B2B, field sales, retail, pharma, FMCG). One pe
 40. Waiting for motivation -> start the first call before 10 AM
 
 ## MARKETING (Hinglish)
-M1. Product nahi, problem becho -> customer ka dard pehle
+M1. Product nahi, problem becho -> customer ka dard pehle (USED 005)
 M2. Sabko bechne ki koshish -> ek clear customer chuno
 M3. Price kam karna hi strategy nahi -> value dikhao
 M4. Brand = jo customer aapke baare mein bolta hai jab aap room mein nahi ho
 M5. "Sasta" vs "value for money" -> positioning ka farak
 M6. Word of mouth -> khush customer se referral maangna
-M7. Ek line mein batao aap kya karte ho (elevator pitch)
+M7. Ek line mein batao aap kya karte ho (elevator pitch) (USED 007)
 M8. Features list vs ek strong benefit
 M9. Customer ki bhasha mein bolo, company ki nahi
 M10. Consistency branding hai: roz dikho
@@ -58,7 +58,7 @@ M12. Social proof: "aap jaise customers ne..." (only real examples)
 
 ## MOTIVATION (field-sales mindset, Hinglish)
 X1. "Na" ek data hai, faisla nahi
-X2. Mahina 1 tareekh ko shuru hota hai, 20 ko nahi
+X2. Mahina 1 tareekh ko shuru hota hai, 20 ko nahi (USED 002)
 X3. Motivation ka intezaar mat karo, pehla call 10 baje se pehle
 X4. Target se darr nahi, plan se dosti
 X5. Aaj ka chhota kaam = kal ka bada result (1% roz)

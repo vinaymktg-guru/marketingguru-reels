@@ -1,0 +1,42 @@
+{
+  "slug": "002-mahina-1-tareekh",
+  "n": 2,
+  "lang": "hi",
+  "voice": "hm_omega",
+  "theme": "grid",
+  "chords": 2,
+  "hook": {
+    "text": "Mahina *1 tareekh* se shuru hota hai.",
+    "vo": "महीना एक तारीख से शुरू होता है, बीस से नहीं।"
+  },
+  "mistake": {
+    "text": "\"Abhi to 5 tareekh hai, aaram se karenge.\"",
+    "vo": "अभी तो पाँच तारीख है, आराम से करेंगे। फिर बीस के बाद भागदौड़।"
+  },
+  "fix": {
+    "text": "Pehle hafte mein *top 10 customers* se milo. *Har din* order ka plan.",
+    "vo": "पहले हफ्ते में टॉप दस कस्टमर्स से मिलो। हर दिन ऑर्डर का प्लान रखो।"
+  },
+  "why": {
+    "text": "Pehla hafta *target banata hai.* Aakhri hafta sirf *bhaagta hai.*",
+    "vo": "पहला हफ्ता टारगेट बनाता है। आखिरी हफ्ता सिर्फ भागता है।"
+  },
+  "cta": {
+    "share": "Us teammate ko bhejo jo 25 tareekh se daudta hai.",
+    "keyword": "DAY1",
+    "ask": "agar 1 tareekh se plan banaoge",
+    "vo": "सेव करो, और उस टीममेट को भेजो जो पच्चीस तारीख से दौड़ता है। और याद रखो..."
+  },
+  "caption": "Mahina 1 tareekh se shuru hota hai, 20 se nahi. Sales target aakhri hafte mein nahi, pehle hafte mein banta ya bigadta hai.\n\nJo salesman 5 tareekh ko aaram karta hai, wahi 25 ko bhaagta hai. Pehle hafte mein top 10 customers se milo aur har din ka order plan rakho. Phir month-end tension nahi, sirf follow-up hota hai.\n\nSAVE karo agle mahine ki 1 tareekh ke liye.\nUs teammate ko bhejo jo 25 tareekh se daudta hai.\n\nComment DAY1 agar 1 tareekh se plan banaoge.\n\n#TheMarketingGuru #SalesMotivation #HindiMotivation #FieldSales #SalesTipsHindi",
+  "first_comment": "Aap mahine ke pehle hafte mein sabse pehle kya karte ho? Comment mein batao.",
+  "yt_title": "Mahina 1 Tareekh Se Shuru Hota Hai | Motivation in Hindi",
+  "yt_tags": [
+    "sales motivation hindi",
+    "sales target kaise pura kare",
+    "motivation in hindi",
+    "field sales",
+    "marketing guru"
+  ],
+  "yt_description": "Sales target kaise pura kare: pehle hafte ka plan, top customers aur daily order planning, field sales motivation in Hindi. Daily sales lessons from 25 years in field sales by Vinay Pandey, The Marketing Guru.\n\n#SalesMotivation #SalesTarget #SalesLessonDaily #Shorts",
+  "speed": 1.12
+}

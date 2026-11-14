@@ -1,0 +1,42 @@
+{
+  "slug": "003-pehli-na-discount-mat-do",
+  "n": 3,
+  "lang": "hi",
+  "voice": "hm_omega",
+  "theme": "streaks",
+  "chords": 3,
+  "hook": {
+    "text": "Pehli *\"na\"* pe *discount* mat do.",
+    "vo": "पहली ना पे डिस्काउंट मत दो।"
+  },
+  "mistake": {
+    "text": "\"Sir, mehenga lag raha hai? Chaliye 10% kam kar dete hain.\"",
+    "vo": "सर, महंगा लग रहा है? चलिए दस परसेंट कम कर देते हैं।"
+  },
+  "fix": {
+    "text": "\"Sir, price ke alawa *koi aur doubt* hai? *Kis cheez se compare* kar rahe hain?\"",
+    "vo": "सर, प्राइस के अलावा कोई और डाउट है? किस चीज़ से कंपेयर कर रहे हैं?"
+  },
+  "why": {
+    "text": "Price aksar *asli doubt ka parda* hota hai. Doubt hatao, *price chhota lagega.*",
+    "vo": "प्राइस अक्सर असली डाउट का पर्दा होता है। डाउट हटाओ, प्राइस छोटा लगेगा।"
+  },
+  "cta": {
+    "share": "Us teammate ko bhejo jo turant discount de deta hai.",
+    "keyword": "SAWAAL",
+    "ask": "agar agli baar pehle sawaal poochoge",
+    "vo": "सेव करो, और उस टीममेट को भेजो जो तुरंत डिस्काउंट दे देता है। और अगली बार..."
+  },
+  "caption": "Pehli \"na\" pe discount mat do. Objection handling ka pehla rule: price ka sawaal aksar price ka nahi hota.\n\nCustomer \"mehenga hai\" bolta hai jab use kisi aur cheez pe doubt hota hai: quality, delivery, ya result. Pehle poocho: \"Price ke alawa koi aur doubt hai? Kis cheez se compare kar rahe hain?\" Asli doubt hatao, discount ki zaroorat kam ho jaayegi.\n\nSAVE karo agli price objection ke liye.\nUs teammate ko bhejo jo turant discount de deta hai.\n\nComment SAWAAL agar agli baar pehle sawaal poochoge.\n\n#TheMarketingGuru #SalesTipsHindi #SalesTraining #FieldSales #SalesMotivation",
+  "first_comment": "Customer ne \"mehenga hai\" bola, to aapne kya jawab diya tha? Comment mein batao.",
+  "yt_title": "Pehli \"Na\" Pe Discount Mat Do | Sales Tips in Hindi",
+  "yt_tags": [
+    "sales tips in hindi",
+    "objection handling hindi",
+    "price objection kaise handle kare",
+    "sales training hindi",
+    "marketing guru"
+  ],
+  "yt_description": "Objection handling in Hindi: price objection pe discount dene se pehle kaunse 2 sawaal poochne hain. Daily sales lessons from 25 years in field sales by Vinay Pandey, The Marketing Guru.\n\n#SalesTips #ObjectionHandling #SalesLessonDaily #Shorts",
+  "speed": 1.12
+}

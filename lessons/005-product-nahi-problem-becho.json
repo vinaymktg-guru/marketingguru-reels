@@ -1,0 +1,42 @@
+{
+  "slug": "005-product-nahi-problem-becho",
+  "n": 5,
+  "lang": "hi",
+  "voice": "hm_omega",
+  "theme": "grid",
+  "chords": 1,
+  "hook": {
+    "text": "*Product* nahi, *problem* becho.",
+    "vo": "प्रोडक्ट नहीं, प्रॉब्लम बेचो।"
+  },
+  "mistake": {
+    "text": "\"Hamare product mein 12 features hain, sir.\"",
+    "vo": "हमारे प्रोडक्ट में बारह फीचर्स हैं, सर। कस्टमर सुनता है, पर खरीदता नहीं।"
+  },
+  "fix": {
+    "text": "Pehle pucho: *\"Sabse zyada pareshani kahan hai?\"* Phir wahi *ek solution* dikhao.",
+    "vo": "पहले पूछो, सबसे ज़्यादा परेशानी कहाँ है? फिर वही एक सॉल्यूशन दिखाओ।"
+  },
+  "why": {
+    "text": "Log feature nahi khareedte. *Apni problem ka hal* khareedte hain.",
+    "vo": "लोग फीचर नहीं खरीदते। अपनी प्रॉब्लम का हल खरीदते हैं।"
+  },
+  "cta": {
+    "share": "Us teammate ko bhejo jo features ki list padhta hai.",
+    "keyword": "DARD",
+    "ask": "agar pehle customer ka dard poochoge",
+    "vo": "सेव करो, और उस टीममेट को भेजो जो फीचर्स गिनाता है। और याद रखो..."
+  },
+  "caption": "Product nahi, problem becho. Marketing ka sabse purana sach: customer feature nahi, apni problem ka hal khareedta hai.\n\n12 features ki list sunke customer bas sir hilata hai. Pehle poocho: \"Sabse zyada pareshani kahan hai?\" Phir sirf wahi ek solution dikhao jo us pareshani ko door kare.\n\nSAVE karo agli meeting se pehle.\nUs teammate ko bhejo jo features ki list padhta hai.\n\nComment DARD agar pehle customer ka dard poochoge.\n\n#TheMarketingGuru #MarketingTipsHindi #SalesTipsHindi #SalesTraining #IndianEntrepreneur",
+  "first_comment": "Aapke customer ki sabse badi problem kya hai? Comment mein batao.",
+  "yt_title": "Product Nahi, Problem Becho | Marketing Tips in Hindi",
+  "yt_tags": [
+    "marketing tips in hindi",
+    "product kaise beche",
+    "sales tips in hindi",
+    "customer psychology hindi",
+    "marketing guru"
+  ],
+  "yt_description": "Marketing tips in Hindi: features ki jagah customer ki problem se selling kaise kare. Daily sales lessons from 25 years in field sales by Vinay Pandey, The Marketing Guru.\n\n#MarketingTips #CustomerPsychology #SalesLessonDaily #Shorts",
+  "speed": 1.12
+}

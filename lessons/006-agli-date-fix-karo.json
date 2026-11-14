@@ -1,0 +1,42 @@
+{
+  "slug": "006-agli-date-fix-karo",
+  "n": 6,
+  "lang": "hi",
+  "voice": "hm_omega",
+  "theme": "streaks",
+  "chords": 2,
+  "hook": {
+    "text": "Call khatam? *Agli date* fix karo.",
+    "vo": "कॉल खत्म? अगली डेट फिक्स करो।"
+  },
+  "mistake": {
+    "text": "\"Theek hai sir, phir milte hain.\" Kab? Pata nahi.",
+    "vo": "ठीक है सर, फिर मिलते हैं। कब? किसी को पता नहीं।"
+  },
+  "fix": {
+    "text": "\"Sir, *Thursday 11 baje* aaun ya *Friday 4 baje*?\"",
+    "vo": "सर, थर्सडे ग्यारह बजे आऊँ, या फ्राइडे चार बजे?"
+  },
+  "why": {
+    "text": "Do option do, to customer *haan ya na nahi,* *din chunta hai.*",
+    "vo": "दो ऑप्शन दो, तो कस्टमर हाँ या ना नहीं, दिन चुनता है।"
+  },
+  "cta": {
+    "share": "Us teammate ko bhejo jo \"phir milte hain\" bolke nikal jaata hai.",
+    "keyword": "DATE",
+    "ask": "agar aaj har call pe date loge",
+    "vo": "सेव करो, और उस टीममेट को भेजो जो फिर मिलते हैं बोलकर निकल जाता है। तो अगली बार..."
+  },
+  "caption": "Call khatam? Agli date fix karo. Follow-up tab kaam karta hai jab uski date pehle se tay ho.\n\n\"Phir milte hain\" ka matlab hota hai kabhi nahi. Har call ke end mein do option do: \"Sir, Thursday 11 baje aaun ya Friday 4 baje?\" Customer haan ya na nahi sochta, bas din chunta hai.\n\nSAVE karo apni agli call ke liye.\nUs teammate ko bhejo jo \"phir milte hain\" bolke nikal jaata hai.\n\nComment DATE agar aaj har call pe date loge.\n\n#TheMarketingGuru #SalesTipsHindi #SalesTraining #FollowUp #FieldSales",
+  "first_comment": "Aap call ke end mein customer se kya bolte ho? Comment mein batao.",
+  "yt_title": "Call Khatam? Agli Date Fix Karo | Sales Tips in Hindi",
+  "yt_tags": [
+    "sales tips in hindi",
+    "follow up kaise kare",
+    "sales closing hindi",
+    "sales training hindi",
+    "field sales"
+  ],
+  "yt_description": "Follow-up aur closing tips in Hindi: har sales call ke end mein agli meeting ki date kaise fix kare. Daily sales lessons from 25 years in field sales by Vinay Pandey, The Marketing Guru.\n\n#SalesTips #FollowUp #SalesLessonDaily #Shorts",
+  "speed": 1.12
+}
