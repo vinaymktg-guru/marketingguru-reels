@@ -35,3 +35,16 @@ Notes for next run: Canva create-design returns 1080x1350 (4:5) even when 1080x1
 Canva export URLs cannot be downloaded from the sandbox, but Metricool ingests them at create time (media becomes static.metricool.com). Canva stored thumbnails come back blank;
 the edit-design response thumbnail is the reliable preview. add_repo tool was not available; the repo was already cloned in the session.
 From the week of 23-Nov-2026 onward ALL posts are drafts until Vinay changes the instruction.
+
+## Bharat AI – week of 16-Nov-2026 (built Sat 14-Nov-2026 ~22:00 IST, scheduled run) – Metricool blogId 8084230, 19:00 IST, IG + FB, all LIVE-scheduled (approved week)
+Reels pinned to commit f41b1b4a39ffababa4f5a626336c868e835d0256. First ba week (no earlier ba topics). No replies on "Bharat AI Weekly Plan" threads.
+- Mon 16-Nov: reel ba-001-mehenga-hai-ka-jawab (objection reply prompt) – uuid -6209606917185974570 (post id 428140906)
+- Tue 17-Nov: carousel "5 prompts har salesperson ke liye" (Canva DAHa6DxiS44) – uuid 6551713435353501444 (post id 428142554)
+- Wed 18-Nov: reel ba-002-whatsapp-offer-message – uuid 1540598553421890753 (post id 428140921)
+- Thu 19-Nov: reel ba-003-visiting-card-lens-se-copy (Google Photos > Google Lens copy text; confirmed on support.google.com/websearch/answer/7539151) – uuid -5634832606277448610 (post id 428140939)
+- Fri 20-Nov: carousel "AI se pehle vs AI ke baad" (Canva DAHa6IE7fmI) – uuid 3984508914976047943 (post id 428142931)
+- Sat 21-Nov: reel ba-004-call-se-pehle-5-sawal – uuid 6737351410944986831 (post id 428140956)
+Notes: only the Thursday reel names a tool; all prompts say "apne AI assistant mein". Canva gave true 1080x1440 this time. To preview each Canva page, open a transaction
+and send a harmless update_title per page_index (stored thumbnails are blank). static.metricool.com is not reachable from the sandbox, so ingested images cannot be re-downloaded.
+End card tagline in build.py says "AI se kaam 10x fast" – flagged to Vinay in the email as a claim he may want to soften.
+From the week of 23-Nov-2026 onward ALL ba posts are drafts until Vinay changes the instruction.
