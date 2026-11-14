@@ -20,3 +20,18 @@ Media pinned to commit fb18891ea72fec24ad33b331ef69b60117b343ea. Approval email 
 - Fri 20-Nov-2026: 007-ek-line-pitch – uuid -9131955436364477531 (post id 427888548)
 - Sat 21-Nov-2026: 008-bahut-bolte-ho-chup-raho – uuid 334341186852571540 (post id 427888564)
 Note: build.py uses a fixed temp dir /tmp/mgreel, so never render two lessons in parallel (it corrupted the first attempt; all 7 were re-rendered one by one and checked with ffmpeg).
+
+## Mera Bachcha India – week of 16-Nov-2026 (built Sat 14-Nov-2026, scheduled run) – Metricool blogId 8084158, 11:30 IST, IG + FB
+Reels pinned to commit f82bacc97a861126ed986c9a0dbffeeba9fe89fb. First mb week (no earlier mb topics).
+- Mon 16-Nov: reel mb-001-roz-10-minute-bachche-ke-naam – LIVE-scheduled, uuid 7588033892007890642 (post id 427943314)
+- Tue 17-Nov: poster "Haath dhone ke 5 mauke" (Canva DAHa48kdrCg) – DRAFT, uuid -4405425723091304100 (post id 427943326)
+- Wed 18-Nov: reel mb-002-tulna-nahi-milestone-diary – LIVE-scheduled, uuid 3854422355529450888 (post id 427943338)
+- Thu 19-Nov: carousel "Parvarish ke 3 myth" (Canva DAHa47dF_hE) – LIVE-scheduled, uuid 8195920457072854565 (post id 427943357)
+- Fri 20-Nov: reel mb-003-raat-ka-brush – DRAFT, uuid -5576735116821968562 (post id 427943369)
+- Sat 21-Nov: poster "Maa, aap bhi zaroori hain" (Canva DAHa43Z7h0M, 1080x1350 resize; DAHa45sPj0w is the unused 5:7 original) – LIVE-scheduled, uuid 5267898849495369307 (post id 427943380)
+Why Tue and Fri are drafts: WebSearch in this run returned only page titles and the page-fetch tool was blocked (permission prompt unanswered, nobody present),
+so the health advice could not be read against WHO / IAP / MoHFW pages. Kept as drafts until Vinay approves. Thu carousel was deliberately made non-health for the same reason.
+Notes for next run: Canva create-design returns 1080x1350 (4:5) even when 1080x1440 is asked, and one poster came out 5:7 (needs resize-design or IG crops it).
+Canva export URLs cannot be downloaded from the sandbox, but Metricool ingests them at create time (media becomes static.metricool.com). Canva stored thumbnails come back blank;
+the edit-design response thumbnail is the reliable preview. add_repo tool was not available; the repo was already cloned in the session.
+From the week of 23-Nov-2026 onward ALL posts are drafts until Vinay changes the instruction.
