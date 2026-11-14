@@ -9,3 +9,14 @@ Vinay sent the original gold/silver VP logo ("use this Original Logo wherever ne
 assets/vp_logo.png = same with the stray navy haze and bottom bar removed. Marketing Guru reels now draw this file top-left (build.py logo()).
 Later the same day he sent the full lockup on navy (assets/vp_lockup_navy_original.png) and asked for a transparent version:
 assets/vp_lockup_transparent.png = full logo with text; assets/vp_logo.png = VP mark only, complete (replaces the cut-off one). Made for dark backgrounds.
+
+## Week of 15-Nov-2026 (built Sat 14-Nov-2026, scheduled run) – Metricool DRAFTS, 13:00 IST, IG REEL + FB REEL + YouTube Short
+Media pinned to commit fb18891ea72fec24ad33b331ef69b60117b343ea. Approval email Gmail thread id 1a1d995fe7374a20 (sent 14-Nov ~16:00 IST).
+- Sun 15-Nov-2026: 002-mahina-1-tareekh – uuid 407976054595667814 (post id 427888207)
+- Mon 16-Nov-2026: 003-pehli-na-discount-mat-do – uuid -3374688325578830292 (post id 427888507)
+- Tue 17-Nov-2026: 004-koi-requirement-band-karo – uuid -2123757373319855375 (post id 427888517)
+- Wed 18-Nov-2026: 005-product-nahi-problem-becho – uuid -4688422697016932871 (post id 427888529)
+- Thu 19-Nov-2026: 006-agli-date-fix-karo – uuid -6027873704960506008 (post id 427888538)
+- Fri 20-Nov-2026: 007-ek-line-pitch – uuid -9131955436364477531 (post id 427888548)
+- Sat 21-Nov-2026: 008-bahut-bolte-ho-chup-raho – uuid 334341186852571540 (post id 427888564)
+Note: build.py uses a fixed temp dir /tmp/mgreel, so never render two lessons in parallel (it corrupted the first attempt; all 7 were re-rendered one by one and checked with ffmpeg).
