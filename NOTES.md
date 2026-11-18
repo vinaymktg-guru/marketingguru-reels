@@ -48,3 +48,9 @@ Notes: only the Thursday reel names a tool; all prompts say "apne AI assistant m
 and send a harmless update_title per page_index (stored thumbnails are blank). static.metricool.com is not reachable from the sandbox, so ingested images cannot be re-downloaded.
 End card tagline in build.py says "AI se kaam 10x fast" – flagged to Vinay in the email as a claim he may want to soften.
 From the week of 23-Nov-2026 onward ALL ba posts are drafts until Vinay changes the instruction.
+
+## 18 Nov 2026 – new Bharat AI logo
+Vinay sent the new logo (navy, saffron arrow on "B", tricolour circuit lines; wordmark BHARAT AI). Originals: assets/ba_logo_square_original.png, assets/ba_cover_original.png.
+Transparent versions: ba_header_transparent.png (mark + wordmark, used top-left in ba reels via build.py `lockup`), ba_mark_transparent.png, ba_lockup_full_transparent.png, ba_logo_square_transparent.png.
+Re-rendered ba-002/003/004 (same audio/durations) and swapped them into Metricool (new post ids 432335634 / 432335661 / 432335697, uuids unchanged).
+Canva carousel DAHa6IE7fmI (Fri 20 Nov): text "Bharat Ai" headers replaced by the logo on all 5 slides (Canva asset MAHbO23fsAQ); post id now 432347058.

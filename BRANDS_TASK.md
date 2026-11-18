@@ -29,6 +29,7 @@ Bharat AI: Mon reel AI for sales · Tue carousel 5 prompts · Wed reel AI for ma
 1080x1440. Poster = 1 page, carousel = 5 slides. Same look every time for each brand.
 - mb: deep plum #400A2C background, pink #FF96C4 accents, white text, friendly rounded bold headlines, simple flat illustrations (toys, books, clock, plate, a parent with a school-age child seen from behind). Footer "@merabachcha_india". Top-left wordmark "MERA BACHCHA INDIA".
 - ba: navy #091830 background, saffron #FF8A1F accents with a little green #1FA971, white text, bold condensed caps headlines, prompts shown inside a rounded "chat box". Footer "@bharat_ai3110". Top-left wordmark "BHARAT AI".
+- ba logo: every ba post/carousel uses the new logo top-left (Canva asset MAHbO23fsAQ = assets/ba_header_transparent.png), not typed "Bharat AI" text.
 Check every page in the thumbnail (text exact, nothing overflows, straight quotes), export png, schedule as instagramData {"type":"POST"} + facebookData {"type":"POST"}.
 
 ## Captions
