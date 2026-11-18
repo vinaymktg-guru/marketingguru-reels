@@ -28,7 +28,7 @@ BRANDS = {
             name='MERA BACHCHA INDIA', sub='@merabachcha_india', handle='@merabachcha_india', voice='hf_alpha',
             ui=dict(lesson='AAJ KI BAAT #{n}', mistake='AKSAR GALTI', fix='YEH KAREIN', why='KYUN ZAROORI HAI',
                     ask='agar aaj se try karenge', tag='Har bachcha sabse achha deserve karta hai.')),
- 'ba': dict(navy=(9, 24, 48), accent=(255, 138, 31), warm=(10, 46, 34), deep=(4, 10, 24), initials='B', arrow=True,
+ 'ba': dict(navy=(9, 24, 48), accent=(255, 138, 31), warm=(10, 46, 34), deep=(4, 10, 24), initials='B', arrow=True, lockup='ba_header_transparent.png',
             name='BHARAT AI', sub='@bharat_ai3110  ·  Sales, Marketing aur AI tips', handle='@bharat_ai3110', voice='hm_omega',
             ui=dict(lesson='AI TIP #{n}', mistake='PURANA TAREEKA', fix='YEH PROMPT LIKHO', why='FAYDA',
                     ask='agar aaj try karoge', tag='AI se kaam 10x fast. Roz ek tip.')),
@@ -151,6 +151,11 @@ def make_bg(theme, seed):
 
 def logo():
     L = Image.new('RGBA', (W, 260), (0, 0, 0, 0)); d = ImageDraw.Draw(L); x, y = 70, 110
+    if B.get('lockup'):   # full brand lockup file (mark + wordmark), drawn as is
+        im = Image.open(os.path.join(ROOT, 'assets', B['lockup'])).convert('RGBA'); hh = 118
+        im = im.resize((int(im.width * hh / im.height), hh), Image.LANCZOS); L.alpha_composite(im, (x - 10, y - 14))
+        d.text((x - 6, y + hh - 2), B['handle'], font=font('pop', 22), fill=(255, 255, 255, 220))
+        L.putalpha(L.getchannel('A').point(lambda v: int(v * 0.95))); return L
     p = os.path.join(ROOT, 'assets', B.get('logo', ''))
     if B.get('logo') and os.path.exists(p):   # original logo file
         im = Image.open(p).convert('RGBA'); hh = 112; im = im.resize((int(im.width * hh / im.height), hh), Image.LANCZOS)
