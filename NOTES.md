@@ -54,3 +54,7 @@ Vinay sent the new logo (navy, saffron arrow on "B", tricolour circuit lines; wo
 Transparent versions: ba_header_transparent.png (mark + wordmark, used top-left in ba reels via build.py `lockup`), ba_mark_transparent.png, ba_lockup_full_transparent.png, ba_logo_square_transparent.png.
 Re-rendered ba-002/003/004 (same audio/durations) and swapped them into Metricool (new post ids 432335634 / 432335661 / 432335697, uuids unchanged).
 Canva carousel DAHa6IE7fmI (Fri 20 Nov): text "Bharat Ai" headers replaced by the logo on all 5 slides (Canva asset MAHbO23fsAQ); post id now 432347058.
+
+## 19 Nov 2026 – Mera Bachcha Sun 22 Nov 11:30 carousel (built in chat)
+- "Rasoi ki 7 galtiyan" 9 slides, posts/mb-1130/MB-Sun22-Rasoi-Galtiyan-1..9.png (HTML/Outfit render; Maa + logo cropped from MB-1130-Thu26-Myths-1/2). Inspired by factbygooogle kitchen carousel; its false claims (ginger/liver, rice 12h) deliberately NOT used.
+- Metricool DRAFT post id 434533642, uuid -6438056920615596957, IG + FB POST. Waiting for dietician check, then Vinay approves to go live.
