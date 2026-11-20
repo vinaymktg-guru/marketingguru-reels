@@ -1,0 +1,184 @@
+{
+ "v": 3,
+ "createdOnFiles": {
+  "v": 1,
+  "at": "2026-11-20T04:47:15Z"
+ },
+ "title": "Mera Bachcha – Super-Brand Launch Designs",
+ "launch": {
+  "view": "canvas"
+ },
+ "pages": [],
+ "boards": {
+  "Main.dc.html": {
+   "x": 0,
+   "y": 0,
+   "w": 1080,
+   "h": 1350,
+   "title": "Diary 1 · Cover"
+  },
+  "story-2.dc.html": {
+   "x": 1160,
+   "y": 0,
+   "w": 1080,
+   "h": 1350,
+   "title": "Diary 2"
+  },
+  "story-3.dc.html": {
+   "x": 2320,
+   "y": 0,
+   "w": 1080,
+   "h": 1350,
+   "title": "Diary 3"
+  },
+  "story-4.dc.html": {
+   "x": 3480,
+   "y": 0,
+   "w": 1080,
+   "h": 1350,
+   "title": "Diary 4"
+  },
+  "story-5.dc.html": {
+   "x": 4640,
+   "y": 0,
+   "w": 1080,
+   "h": 1350,
+   "title": "Diary 5"
+  },
+  "story-6.dc.html": {
+   "x": 5800,
+   "y": 0,
+   "w": 1080,
+   "h": 1350,
+   "title": "Diary 6"
+  },
+  "story-7.dc.html": {
+   "x": 6960,
+   "y": 0,
+   "w": 1080,
+   "h": 1350,
+   "title": "Diary 7"
+  },
+  "myth-1.dc.html": {
+   "x": 0,
+   "y": 1850,
+   "w": 1080,
+   "h": 1350,
+   "title": "Dadi vs Doctor 1"
+  },
+  "myth-2.dc.html": {
+   "x": 1160,
+   "y": 1850,
+   "w": 1080,
+   "h": 1350,
+   "title": "Dadi vs Doctor 2"
+  },
+  "myth-3.dc.html": {
+   "x": 2320,
+   "y": 1850,
+   "w": 1080,
+   "h": 1350,
+   "title": "Dadi vs Doctor 3"
+  },
+  "myth-4.dc.html": {
+   "x": 3480,
+   "y": 1850,
+   "w": 1080,
+   "h": 1350,
+   "title": "Dadi vs Doctor 4"
+  },
+  "myth-5.dc.html": {
+   "x": 4640,
+   "y": 1850,
+   "w": 1080,
+   "h": 1350,
+   "title": "Dadi vs Doctor 5"
+  },
+  "poster-quote.dc.html": {
+   "x": 0,
+   "y": 3700,
+   "w": 1080,
+   "h": 1350,
+   "title": "Poster · 2 baje"
+  },
+  "poster-chart.dc.html": {
+   "x": 1160,
+   "y": 3700,
+   "w": 1080,
+   "h": 1350,
+   "title": "Poster · Pehla Niwala chart"
+  },
+  "poster-parvarish-lab.dc.html": {
+   "x": 2320,
+   "y": 3700,
+   "w": 1080,
+   "h": 1350,
+   "title": "Parvarish Lab EP 01 · Prerna Sharma"
+  },
+  "poster-parvarish-lab-ep02.dc.html": {
+   "x": 3480,
+   "y": 3700,
+   "w": 1080,
+   "h": 1350,
+   "title": "Parvarish Lab EP 02 · Priyanka Sharma"
+  },
+  "poster-parvarish-lab-ep03.dc.html": {
+   "x": 4640,
+   "y": 3700,
+   "w": 1080,
+   "h": 1350,
+   "title": "Parvarish Lab EP 03 · Dt. Vijaylaxmi"
+  },
+  "poster-parvarish-lab-ep04.dc.html": {
+   "x": 5800,
+   "y": 3700,
+   "w": 1080,
+   "h": 1350,
+   "title": "Parvarish Lab EP 04 · Dt. Nisha Das"
+  }
+ },
+ "order": [
+  "Main.dc.html",
+  "story-2.dc.html",
+  "story-3.dc.html",
+  "story-4.dc.html",
+  "story-5.dc.html",
+  "story-6.dc.html",
+  "story-7.dc.html",
+  "myth-1.dc.html",
+  "myth-2.dc.html",
+  "myth-3.dc.html",
+  "myth-4.dc.html",
+  "myth-5.dc.html",
+  "poster-quote.dc.html",
+  "poster-chart.dc.html",
+  "poster-parvarish-lab.dc.html",
+  "poster-parvarish-lab-ep02.dc.html",
+  "poster-parvarish-lab-ep03.dc.html",
+  "poster-parvarish-lab-ep04.dc.html"
+ ],
+ "notes": {
+  "t1": {
+   "x": 0,
+   "y": -320,
+   "text": "Ek Maa Ki Diary · emotional story carousel (7 slides)",
+   "kind": "title1",
+   "maxW": 7960
+  },
+  "t2": {
+   "x": 0,
+   "y": 1530,
+   "text": "Dadi vs Doctor · myth carousel (5 slides)",
+   "kind": "title1",
+   "maxW": 5720
+  },
+  "t3": {
+   "x": 0,
+   "y": 3380,
+   "text": "Posters · quote, chart, Parvarish Lab covers",
+   "kind": "title1",
+   "maxW": 6880
+  }
+ },
+ "designSystems": []
+}
