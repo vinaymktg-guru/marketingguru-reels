@@ -54,3 +54,15 @@ Vinay sent the new logo (navy, saffron arrow on "B", tricolour circuit lines; wo
 Transparent versions: ba_header_transparent.png (mark + wordmark, used top-left in ba reels via build.py `lockup`), ba_mark_transparent.png, ba_lockup_full_transparent.png, ba_logo_square_transparent.png.
 Re-rendered ba-002/003/004 (same audio/durations) and swapped them into Metricool (new post ids 432335634 / 432335661 / 432335697, uuids unchanged).
 Canva carousel DAHa6IE7fmI (Fri 20 Nov): text "Bharat Ai" headers replaced by the logo on all 5 slides (Canva asset MAHbO23fsAQ); post id now 432347058.
+
+## Week of 22-Nov-2026 (built Sat 21-Nov-2026, scheduled run) – Metricool DRAFTS, 13:00 IST, IG REEL + FB REEL + YouTube Short
+Media pinned to commit 5207e296d0e3a99cd2d7d645faaf36c98ec2ebd4. Approval email Gmail thread id 1a1fd9ed84ca4dbc (sent 21-Nov ~15:50 IST).
+No Vinay replies with new rules since the 15-Nov APPROVED. No 20:00 posts existed in brand 7623016 for 22-28 Nov at build time.
+- Sun 22-Nov-2026: 009-na-ek-data-hai – uuid 6450518547978405843 (post id 436542230)
+- Mon 23-Nov-2026: 010-sochke-batata-hoon – uuid -7379678027908299595 (post id 436542611)
+- Tue 24-Nov-2026: 011-receptionist-ko-ignore-mat-karo – uuid -79217361011064646 (post id 436542619)
+- Wed 25-Nov-2026: 012-customer-ki-bhasha-bolo – uuid -4391867875620338689 (post id 436542632)
+- Thu 26-Nov-2026: 013-order-maangne-mein-der-mat-karo – uuid 1284004664478092693 (post id 436542642)
+- Fri 27-Nov-2026: 014-competition-ki-burai-mat-karo – uuid 5175058334602317487 (post id 436542652)
+- Sat 28-Nov-2026: 015-details-aaj-hi-bhejo – uuid -4493706826024399688 (post id 436542660)
+Note: add_repo tool was not available; the repo was already cloned in the session.
