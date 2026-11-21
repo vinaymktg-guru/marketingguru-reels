@@ -66,3 +66,8 @@ No Vinay replies with new rules since the 15-Nov APPROVED. No 20:00 posts existe
 - Fri 27-Nov-2026: 014-competition-ki-burai-mat-karo – uuid 5175058334602317487 (post id 436542652)
 - Sat 28-Nov-2026: 015-details-aaj-hi-bhejo – uuid -4493706826024399688 (post id 436542660)
 Note: add_repo tool was not available; the repo was already cloned in the session.
+
+## Mera Bachcha – week of 23-Nov-2026 (Super-Brand Weekly Build, Sat 21-Nov-2026 run)
+Nothing built: all seven 8:30 PM slots (23-29 Nov) already had posts in brand 8084158 (Mon-Thu old launch designs from 18 Nov, Fri-Sun new-brand Diary / Dadi vs Doctor / "2 baje"), all live-scheduled.
+11:30 Mon-Thu filled; Fri-Sun 11:30 empty (no new finished reel in repo). No new Vinay instructions on "Mera Bachcha" threads in 14 days.
+Flagged to Vinay (email thread 1a1fdea897cbc4a1): Mon-Thu are old design without Collabs ("replace Mon-Thu" offer); Fri-Sun include unconfirmed @dt.vijaylaxmi collaborator.
