@@ -91,3 +91,6 @@ Tue 24-Nov and Fri 27-Nov drafts rebuilt in the new style and swapped in Metrico
 - Tue: Canva DAHblUGGGYg (7 slides), post id now 437056039. Fri: Canva DAHblXAzCOU (6 slides), post id now 437056233.
 Old navy designs DAHbkHRANKs / DAHbkAjwJdo are no longer used. Rules for the style are in BRANDS_TASK.md.
 Canva generate-image keeps the hero consistent when MAHblMTeBq4 is passed as reference; each image takes about 40 s.
+22 Nov 2026 ~03:40 IST: Vinay said "Approved" in chat. All six ba posts for 23-28 Nov set to draft false (LIVE-scheduled, 19:00 IST, autoPublish).
+New post ids: Mon 437069658, Tue 437069700, Wed 437069665, Thu 437069675, Fri 437069712, Sat 437069690 (uuids unchanged).
+This approval covers the week of 23-Nov only; later weeks stay drafts until he approves them.
