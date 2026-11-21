@@ -71,3 +71,16 @@ Note: add_repo tool was not available; the repo was already cloned in the sessio
 Nothing built: all seven 8:30 PM slots (23-29 Nov) already had posts in brand 8084158 (Mon-Thu old launch designs from 18 Nov, Fri-Sun new-brand Diary / Dadi vs Doctor / "2 baje"), all live-scheduled.
 11:30 Mon-Thu filled; Fri-Sun 11:30 empty (no new finished reel in repo). No new Vinay instructions on "Mera Bachcha" threads in 14 days.
 Flagged to Vinay (email thread 1a1fdea897cbc4a1): Mon-Thu are old design without Collabs ("replace Mon-Thu" offer); Fri-Sun include unconfirmed @dt.vijaylaxmi collaborator.
+
+## Bharat AI – week of 23-Nov-2026 (built Sat 21-Nov-2026 ~22:00 IST, scheduled run) – blogId 8084230, 19:00 IST, IG + FB, all DRAFTS (not approved yet)
+Reels pinned to commit ab5d5a166ca5cdd993350291c2e2d92379e1ef0e. No Vinay replies on "Bharat AI Weekly Plan" threads (only thread 1a1dae7a7a91b123, 1 message).
+- Mon 23-Nov: reel ba-005-naye-customer-ko-pehla-message – uuid -8862990274061188703 (post id 436817735)
+- Tue 24-Nov: carousel "5 prompts har dukaandaar ke liye" (Canva DAHbkHRANKs: product description, review reply, payment reminder, complaint reply, tagline) – uuid -2218015487678201815 (post id 436817829)
+- Wed 25-Nov: reel ba-006-instagram-caption-ai-se – uuid 3763413083215120206 (post id 436817757)
+- Thu 26-Nov: reel ba-007-bolkar-message-likho (Gboard voice typing; steps confirmed on support.google.com/gboard/answer/2781851; page does not list Hindi, so no Hindi claim) – uuid -272216183831379753 (post id 436817779)
+- Fri 27-Nov: carousel "Marketing: AI se pehle vs AI ke baad" (Canva DAHbkAjwJdo: ad copy, poster idea, price email) – uuid 1746444814895826345 (post id 436818014)
+- Sat 28-Nov: reel ba-008-ai-se-pitch-practice (role-play tough customer) – uuid 476047899454424442 (post id 436817804)
+Notes: carousels are now made by copy-design of last week's two designs + text edits (keeps the look; typed "Bharat AI" headers in the 5-prompts design replaced by logo asset MAHbO23fsAQ).
+Backgrounds have a faint baked shadow where the old title sat, so keep new titles about as long as the old ones. edit-design returns a thumbnail per call, so no update_title trick needed.
+export-download.canva.com is not reachable from the sandbox (Metricool ingests the export URLs fine). add_repo tool not available; repo was already cloned.
+git add with a glob hits ignored reels/*_fix.jpg and aborts: add *.mp4 and *_cover.jpg explicitly.
