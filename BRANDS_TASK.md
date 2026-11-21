@@ -41,3 +41,16 @@ ba always starts #BharatAI (mix #AITipsHindi #ChatGPTHindi #SalesTips #AIForBusi
 mb (STRICT, IMS Act and safety): never infant formula, feeding bottles, baby food, breastfeeding or feeding advice, supplements, medicines, any company or product; no babies under 2 in pictures and no mother-with-infant imagery; health topics only as general awareness that matches public guidance from WHO, IAP or the Ministry of Health (check with WebSearch, name the source in the email); no diagnosis, dose or treatment; no fear hooks; no real child or parent names.
 ba: check every tool name, feature and price on the tool's official page before writing it; no "free forever" or earnings claims; prompts must be ones you have reasoned through as sensible; AI content labelled.
 Both: no politics, no religion, never name British Life Sciences or its products, no invented statistics, no real customer/doctor/colleague names.
+
+## Bharat AI carousels: CINEMATIC style (from 22 Nov 2026, Vinay: "I like this kind of Carousel for Bharat AI")
+Replaces the navy chat-box look for ba carousels. Full-bleed cinematic AI picture, same hero every time, two-line headline at the bottom.
+- Hero: field salesman, early 30s, short black hair, neat beard, white shirt rolled sleeves, dark trousers, brown leather satchel, vintage black motorcycle,
+  plus a small glowing saffron-orange orb of light beside him (the orb = AI). Reference image Canva asset MAHblMTeBq4: pass it in imageReferences on every
+  generate-image call (PORTRAIT_3_4) and write "Same man, same white shirt..., same orb". Painterly, golden hour, brown/amber, subject in upper two thirds,
+  lower third dark. Always add "No temples, no religious buildings or symbols. No text, no letters, no logos."
+- Template: copy-design DAHblDlwzPw (6 slides; add slides with merge-designs insert_pages, ONE operation per call). Each page = image rect (update_fill),
+  white line (condensed font, 88 px; 72 if over 24 characters), saffron #FF8A1F line (88 px for a slogan, 58 px for a 2-line prompt, top 1135-1140),
+  small "@bharat_ai3110" line, "Visual AI se bana hai", logo top-left. Element ids differ on every page and in every copy: read design_content first.
+- Slide plan: cover, one idea per slide (white = label or "Pehle: ...", saffron = the prompt to copy), last slide "Follow @bharat_ai3110".
+  Tue = 5 prompts (7 slides), Fri = before vs after AI (6 slides). Caption line: "Is post ke visuals AI se bane hain."
+- Check every thumbnail for religious buildings/symbols in the background and regenerate if any (the first hilltop image MAHblNayL1I has a spire: do not use).

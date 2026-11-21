@@ -84,3 +84,10 @@ Notes: carousels are now made by copy-design of last week's two designs + text e
 Backgrounds have a faint baked shadow where the old title sat, so keep new titles about as long as the old ones. edit-design returns a thumbnail per call, so no update_title trick needed.
 export-download.canva.com is not reachable from the sandbox (Metricool ingests the export URLs fine). add_repo tool not available; repo was already cloned.
 git add with a glob hits ignored reels/*_fix.jpg and aborts: add *.mp4 and *_cover.jpg explicitly.
+
+## 22 Nov 2026 – Bharat AI cinematic carousels (Vinay asked in chat after seeing a reference post)
+Sample: Canva DAHblDlwzPw "BA SAMPLE – Cinematic Carousel – AI saath chalta hai" (template, not posted).
+Tue 24-Nov and Fri 27-Nov drafts rebuilt in the new style and swapped in Metricool (still DRAFTS, uuids unchanged):
+- Tue: Canva DAHblUGGGYg (7 slides), post id now 437056039. Fri: Canva DAHblXAzCOU (6 slides), post id now 437056233.
+Old navy designs DAHbkHRANKs / DAHbkAjwJdo are no longer used. Rules for the style are in BRANDS_TASK.md.
+Canva generate-image keeps the hero consistent when MAHblMTeBq4 is passed as reference; each image takes about 40 s.
