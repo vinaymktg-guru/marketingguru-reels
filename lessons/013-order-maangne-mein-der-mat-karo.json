@@ -1,0 +1,42 @@
+{
+  "slug": "013-order-maangne-mein-der-mat-karo",
+  "n": 13,
+  "lang": "hi",
+  "voice": "hm_omega",
+  "theme": "bokeh",
+  "chords": 1,
+  "hook": {
+    "text": "Order *maangne mein der* mat karo.",
+    "vo": "ऑर्डर मांगने में देर मत करो।"
+  },
+  "mistake": {
+    "text": "Customer pooche \"kab tak milega?\", aap abhi bhi pitch kar rahe.",
+    "vo": "कस्टमर पूछे, कब तक मिलेगा? और आप अभी भी पिच कर रहे।"
+  },
+  "fix": {
+    "text": "Wahin ruko: *\"Sir, kitni quantity likh doon?\"*",
+    "vo": "वहीं रुको। सर, कितनी क्वांटिटी लिख दूँ?"
+  },
+  "why": {
+    "text": "Customer *signal de raha hai.* Der karoge to *mood badal jayega.*",
+    "vo": "कस्टमर सिग्नल दे रहा है। देर करोगे, तो मूड बदल जाएगा।"
+  },
+  "cta": {
+    "share": "Us teammate ko bhejo jo closing tak pahunchta hi nahi.",
+    "keyword": "ORDER",
+    "ask": "agar agla signal pakdoge",
+    "vo": "सेव करो, और उस टीममेट को भेजो जो क्लोज़िंग तक पहुँचता ही नहीं। इसलिए..."
+  },
+  "caption": "Order maangne mein der mat karo. Sales closing ka simple rule: jab customer buying signal de, pitch band karo aur order maango.\n\n\"Kab tak milega?\", \"Scheme kya hai?\", \"Pack size kya hai?\": yeh sab signal hain. Wahin ruko aur poocho: \"Sir, kitni quantity likh doon?\"\n\nSAVE karo agli closing ke liye.\nUs teammate ko bhejo jo closing tak pahunchta hi nahi.\n\nComment ORDER agar agla signal pakdoge.\n\n#TheMarketingGuru #SalesTipsHindi #SalesClosing #SalesTraining #FieldSales",
+  "first_comment": "Aapke customer ka sabse common buying signal kya hota hai? Comment mein batao.",
+  "yt_title": "Order Maangne Mein Der Mat Karo | Sales Tips in Hindi",
+  "yt_tags": [
+    "sales tips in hindi",
+    "sales closing hindi",
+    "closing kaise kare",
+    "sales training hindi",
+    "field sales"
+  ],
+  "yt_description": "Sales tips in Hindi: closing ke liye buying signals pehchano aur sahi pal pe order kaise maango. Daily sales lessons from 25 years in field sales by Vinay Pandey, The Marketing Guru.\n\n#SalesClosing #SalesTips #SalesLessonDaily #Shorts",
+  "speed": 1.12
+}

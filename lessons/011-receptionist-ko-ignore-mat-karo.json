@@ -1,0 +1,42 @@
+{
+  "slug": "011-receptionist-ko-ignore-mat-karo",
+  "n": 11,
+  "lang": "hi",
+  "voice": "hm_omega",
+  "theme": "grid",
+  "chords": 3,
+  "hook": {
+    "text": "Receptionist ko *ignore mat karo.*",
+    "vo": "रिसेप्शनिस्ट को इग्नोर मत करो।"
+  },
+  "mistake": {
+    "text": "Seedha andar jaane ki jaldi. Assistant ko \"hello\" bhi nahi.",
+    "vo": "सीधा अंदर जाने की जल्दी। असिस्टेंट को हेलो भी नहीं।"
+  },
+  "fix": {
+    "text": "Naam se *namaste* karo, *thank you* bolo. Agli visit pe *naam yaad* rakho.",
+    "vo": "नाम से नमस्ते करो, थैंक यू बोलो। अगली विज़िट पे नाम याद रखो।"
+  },
+  "why": {
+    "text": "Darwaza wahi kholte hain. *Izzat do, time milega.*",
+    "vo": "दरवाज़ा वही खोलते हैं। इज़्ज़त दो, टाइम मिलेगा।"
+  },
+  "cta": {
+    "share": "Us teammate ko bhejo jo sirf boss se baat karta hai.",
+    "keyword": "IZZAT",
+    "ask": "agar kal naam se namaste karoge",
+    "vo": "सेव करो, और उस टीममेट को भेजो जो सिर्फ बॉस से बात करता है। इसलिए..."
+  },
+  "caption": "Receptionist ko ignore mat karo. Doctor visit, retailer ya office call: field sales mein darwaza assistant hi kholta hai.\n\nNaam se namaste karo, thank you bolo, aur agli visit pe naam yaad rakho. Jo izzat dete hain, unhe time bhi milta hai aur andar ki jaankari bhi.\n\nSAVE karo apni agli visit ke liye.\nUs teammate ko bhejo jo sirf boss se baat karta hai.\n\nComment IZZAT agar kal naam se namaste karoge.\n\n#TheMarketingGuru #SalesTipsHindi #FieldSales #SalesTraining #SalesMotivation",
+  "first_comment": "Kabhi kisi assistant ya receptionist ne aapki meeting karwa di? Comment mein batao.",
+  "yt_title": "Receptionist Ko Ignore Mat Karo | Sales Tips in Hindi",
+  "yt_tags": [
+    "sales tips in hindi",
+    "field sales tips",
+    "doctor visit tips",
+    "sales training hindi",
+    "marketing guru"
+  ],
+  "yt_description": "Sales tips in Hindi: field sales mein gatekeeper, receptionist aur assistant ko izzat dena kyun zaroori hai, aur meeting kaise milti hai. Daily sales lessons from 25 years in field sales by Vinay Pandey, The Marketing Guru.\n\n#FieldSales #SalesTips #SalesLessonDaily #Shorts",
+  "speed": 1.12
+}

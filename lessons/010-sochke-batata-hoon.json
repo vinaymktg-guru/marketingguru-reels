@@ -1,0 +1,42 @@
+{
+  "slug": "010-sochke-batata-hoon",
+  "n": 10,
+  "lang": "hi",
+  "voice": "hm_omega",
+  "theme": "bokeh",
+  "chords": 2,
+  "hook": {
+    "text": "*\"Sochke batata hoon\"* ka asli matlab?",
+    "vo": "सोचके बताता हूँ, का असली मतलब?"
+  },
+  "mistake": {
+    "text": "\"Theek hai sir, aaram se sochiye.\" Aur aap nikal gaye.",
+    "vo": "ठीक है सर, आराम से सोचिए। और आप निकल गए।"
+  },
+  "fix": {
+    "text": "\"Zaroor sir. *Kis baat pe soch rahe hain:* price, quality ya timing?\"",
+    "vo": "ज़रूर सर। किस बात पे सोच रहे हैं? प्राइस, क्वालिटी, या टाइमिंग?"
+  },
+  "why": {
+    "text": "*Asli doubt* saamne aayega, to *wahin solve* kar paoge.",
+    "vo": "असली डाउट सामने आएगा, तो वहीं सॉल्व कर पाओगे।"
+  },
+  "cta": {
+    "share": "Us teammate ko bhejo jo \"soch ke batata hoon\" pe ruk jaata hai.",
+    "keyword": "DOUBT",
+    "ask": "agar agli meeting mein poochoge",
+    "vo": "सेव करो, और उस टीममेट को भेजो जो यहीं रुक जाता है। तो अगली बार..."
+  },
+  "caption": "\"Sochke batata hoon\" ka asli matlab? Objection handling ka sabse common pal, aur zyaadatar salesman yahin order kho dete hain.\n\nCustomer ke paas koi ek doubt hai jo woh bol nahi raha. Pucho: \"Kis baat pe soch rahe hain: price, quality ya timing?\" Asli doubt saamne aayega, aur aap wahin solve kar paoge.\n\nSAVE karo agli meeting ke liye.\nUs teammate ko bhejo jo \"soch ke batata hoon\" pe ruk jaata hai.\n\nComment DOUBT agar agli meeting mein poochoge.\n\n#TheMarketingGuru #SalesTipsHindi #SalesTraining #ObjectionHandling #FieldSales",
+  "first_comment": "Customer \"sochke batata hoon\" bole to aap kya kehte ho? Comment mein batao.",
+  "yt_title": "\"Sochke Batata Hoon\" Ka Jawab | Sales Tips in Hindi",
+  "yt_tags": [
+    "sales tips in hindi",
+    "objection handling hindi",
+    "sales closing hindi",
+    "sales training hindi",
+    "field sales"
+  ],
+  "yt_description": "Sales tips in Hindi: objection handling jab customer bole \"sochke batata hoon\", ek sawaal jo asli doubt saamne laaye. Daily sales lessons from 25 years in field sales by Vinay Pandey, The Marketing Guru.\n\n#ObjectionHandling #SalesTips #SalesLessonDaily #Shorts",
+  "speed": 1.12
+}

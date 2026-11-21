@@ -1,0 +1,42 @@
+{
+  "slug": "009-na-ek-data-hai",
+  "n": 9,
+  "lang": "hi",
+  "voice": "hm_omega",
+  "theme": "streaks",
+  "chords": 1,
+  "hook": {
+    "text": "*\"Na\"* ek data hai, *faisla nahi.*",
+    "vo": "ना एक डेटा है, फ़ैसला नहीं।"
+  },
+  "mistake": {
+    "text": "\"Na\" suna, mood off, aur poora din kharab.",
+    "vo": "ना सुना, मूड ऑफ, और पूरा दिन खराब।"
+  },
+  "fix": {
+    "text": "Pucho: *\"Sir, kya badle to aap haan kahenge?\"* Jawab note karo.",
+    "vo": "पूछो, सर, क्या बदले तो आप हाँ कहेंगे? जवाब नोट करो।"
+  },
+  "why": {
+    "text": "Har \"na\" batata hai *agli baar kya badalna hai.*",
+    "vo": "हर ना बताता है, कि अगली बार क्या बदलना है।"
+  },
+  "cta": {
+    "share": "Us teammate ko bhejo jo ek \"na\" se toot jaata hai.",
+    "keyword": "DATA",
+    "ask": "agar agli \"na\" pe yeh poochoge",
+    "vo": "सेव करो, और उस टीममेट को भेजो जो एक ना से टूट जाता है। याद रखो..."
+  },
+  "caption": "\"Na\" ek data hai, faisla nahi. Rejection handle karna field sales ki sabse zaroori sales motivation hai.\n\nAgli baar \"na\" sunke mood off mat karo. Ek sawaal poocho: \"Sir, kya badle to aap haan kahenge?\" Jo jawab mile, note karo. Wahi aapka agla pitch hai.\n\nSAVE karo us din ke liye jab \"na\" chubhe.\nUs teammate ko bhejo jo ek \"na\" se toot jaata hai.\n\nComment DATA agar agli \"na\" pe yeh poochoge.\n\n#TheMarketingGuru #SalesMotivation #HindiMotivation #FieldSales #SalesTipsHindi",
+  "first_comment": "Aapki sabse yaadgaar \"na\" kaunsi thi, jo baad mein \"haan\" bani? Comment mein batao.",
+  "yt_title": "\"Na\" Ek Data Hai, Faisla Nahi | Motivation in Hindi",
+  "yt_tags": [
+    "sales motivation hindi",
+    "rejection kaise handle kare",
+    "motivation in hindi",
+    "field sales",
+    "sales training hindi"
+  ],
+  "yt_description": "Sales motivation in Hindi: rejection ko data kaise banaye, har \"na\" ke baad ek sawaal jo agla pitch better kare. Daily sales lessons from 25 years in field sales by Vinay Pandey, The Marketing Guru.\n\n#SalesMotivation #Rejection #SalesLessonDaily #Shorts",
+  "speed": 1.12
+}

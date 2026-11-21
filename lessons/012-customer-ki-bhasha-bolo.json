@@ -1,0 +1,42 @@
+{
+  "slug": "012-customer-ki-bhasha-bolo",
+  "n": 12,
+  "lang": "hi",
+  "voice": "hm_omega",
+  "theme": "streaks",
+  "chords": 0,
+  "hook": {
+    "text": "*Company ki nahi,* customer ki bhasha bolo.",
+    "vo": "कंपनी की नहीं, कस्टमर की भाषा बोलो।"
+  },
+  "mistake": {
+    "text": "\"Sir, humara advanced formulation aur unique technology...\"",
+    "vo": "सर, हमारा एडवांस्ड फॉर्मुलेशन, और यूनीक टेक्नोलॉजी..."
+  },
+  "fix": {
+    "text": "\"Sir, isse aapka *stock jaldi niklega* aur *margin achha* rahega.\"",
+    "vo": "सर, इससे आपका स्टॉक जल्दी निकलेगा, और मार्जिन अच्छा रहेगा।"
+  },
+  "why": {
+    "text": "Customer *apne fayde* ke shabd sunta hai, *aapke brochure* ke nahi.",
+    "vo": "कस्टमर अपने फ़ायदे के शब्द सुनता है, आपके ब्रोशर के नहीं।"
+  },
+  "cta": {
+    "share": "Us teammate ko bhejo jo brochure ratta maarke bolta hai.",
+    "keyword": "BHASHA",
+    "ask": "agar kal customer ki bhasha bologe",
+    "vo": "सेव करो, और उस टीममेट को भेजो जो ब्रोशर रटके बोलता है। याद रखो..."
+  },
+  "caption": "Company ki nahi, customer ki bhasha bolo. Marketing tips ka pehla rule: customer ko apna fayda sunna hai, aapki technology nahi.\n\n\"Advanced formulation\" retailer ke liye kuch nahi kehta. \"Stock jaldi niklega, margin achha rahega\" sab kuch keh deta hai. Brochure ke shabd chhodo, customer ke shabd pakdo.\n\nSAVE karo apni agli pitch ke liye.\nUs teammate ko bhejo jo brochure ratta maarke bolta hai.\n\nComment BHASHA agar kal customer ki bhasha bologe.\n\n#TheMarketingGuru #MarketingTipsHindi #SalesTipsHindi #CustomerPsychology #SalesTraining",
+  "first_comment": "Aapke customer kaunse shabd sabse zyada sunna pasand karte hain? Comment mein batao.",
+  "yt_title": "Customer Ki Bhasha Bolo | Marketing Tips in Hindi",
+  "yt_tags": [
+    "marketing tips in hindi",
+    "customer psychology hindi",
+    "sales pitch kaise kare",
+    "sales tips in hindi",
+    "marketing guru"
+  ],
+  "yt_description": "Marketing tips in Hindi: sales pitch mein company ke features nahi, customer ke fayde ke shabd kaise bole. Daily sales lessons from 25 years in field sales by Vinay Pandey, The Marketing Guru.\n\n#MarketingTips #CustomerPsychology #SalesLessonDaily #Shorts",
+  "speed": 1.12
+}

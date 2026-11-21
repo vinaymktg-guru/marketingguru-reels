@@ -1,0 +1,42 @@
+{
+  "slug": "015-details-aaj-hi-bhejo",
+  "n": 15,
+  "lang": "hi",
+  "voice": "hm_omega",
+  "theme": "streaks",
+  "chords": 3,
+  "hook": {
+    "text": "*\"Details bhej dunga\"*? *Aaj hi* bhejo.",
+    "vo": "डिटेल्स भेज दूँगा? आज ही भेजो।"
+  },
+  "mistake": {
+    "text": "Meeting mein \"sir, details bhejta hoon.\" Teen din baad yaad aaya.",
+    "vo": "मीटिंग में, सर डिटेल्स भेजता हूँ। तीन दिन बाद याद आया।"
+  },
+  "fix": {
+    "text": "*Usi din shaam tak* bhejo, *ek line* ke saath: \"Aaj ki baat ke hisaab se.\"",
+    "vo": "उसी दिन शाम तक भेजो, एक लाइन के साथ। आज की बात के हिसाब से।"
+  },
+  "why": {
+    "text": "Customer ka *interest aaj garam hai.* Kal tak *thanda* ho jayega.",
+    "vo": "कस्टमर का इंटरेस्ट आज गरम है। कल तक ठंडा हो जाएगा।"
+  },
+  "cta": {
+    "share": "Us teammate ko bhejo jo details hafte baad bhejta hai.",
+    "keyword": "AAJ",
+    "ask": "agar aaj shaam tak bhejoge",
+    "vo": "सेव करो, और उस टीममेट को भेजो जो डिटेल्स हफ़्ते बाद भेजता है। और अगली बार..."
+  },
+  "caption": "\"Details bhej dunga\"? Aaj hi bhejo. Follow-up ka sabse aasaan aur sabse zyada toota hua promise yahi hai.\n\nMeeting mein customer ka interest garam hota hai. Usi din shaam tak details bhejo, ek line ke saath: \"Aaj ki baat ke hisaab se.\" Teen din baad bhejoge to customer bhool chuka hoga.\n\nSAVE karo agli meeting ke liye.\nUs teammate ko bhejo jo details hafte baad bhejta hai.\n\nComment AAJ agar aaj shaam tak bhejoge.\n\n#TheMarketingGuru #SalesTipsHindi #FollowUp #SalesTraining #FieldSales",
+  "first_comment": "Meeting ke baad details bhejne mein aapko kitna time lagta hai? Comment mein batao.",
+  "yt_title": "\"Details Bhej Dunga\"? Aaj Hi Bhejo | Sales Tips in Hindi",
+  "yt_tags": [
+    "sales tips in hindi",
+    "follow up kaise kare",
+    "sales training hindi",
+    "field sales",
+    "marketing guru"
+  ],
+  "yt_description": "Sales tips in Hindi: meeting ke baad follow-up details usi din bhejne se deal kaise garam rehti hai. Daily sales lessons from 25 years in field sales by Vinay Pandey, The Marketing Guru.\n\n#FollowUp #SalesTips #SalesLessonDaily #Shorts",
+  "speed": 1.12
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "014-competition-ki-burai-mat-karo",
+  "n": 14,
+  "lang": "hi",
+  "voice": "hm_omega",
+  "theme": "grid",
+  "chords": 2,
+  "hook": {
+    "text": "Competition ki *burai mat karo.*",
+    "vo": "कॉम्पिटिशन की बुराई मत करो।"
+  },
+  "mistake": {
+    "text": "\"Sir, unka maal bekaar hai, mat lijiye.\"",
+    "vo": "सर, उनका माल बेकार है, मत लीजिए।"
+  },
+  "fix": {
+    "text": "\"Woh bhi achhe hain. *Humara farak yeh hai:* ek, do, teen.\"",
+    "vo": "वो भी अच्छे हैं। हमारा फ़र्क ये है, एक, दो, तीन।"
+  },
+  "why": {
+    "text": "Burai se *aap chhote* lagte ho. *Farak se* bharosa banta hai.",
+    "vo": "बुराई से आप छोटे लगते हो। फ़र्क से भरोसा बनता है।"
+  },
+  "cta": {
+    "share": "Us teammate ko bhejo jo har visit mein competition ko kosta hai.",
+    "keyword": "FARAK",
+    "ask": "agar apne 3 farak likhoge",
+    "vo": "सेव करो, और उस टीममेट को भेजो जो हर विज़िट में कॉम्पिटिशन को कोसता है। तो याद रखो..."
+  },
+  "caption": "Competition ki burai mat karo. Branding aur positioning ka seedha rule: doosre ko chhota karke aap bade nahi bante.\n\nCustomer shayad competition ka maal le bhi raha ho. Burai karoge to uski choice ko galat bol rahe ho. Bolo: \"Woh bhi achhe hain. Humara farak yeh hai...\" aur apne 3 farak yaad rakho.\n\nSAVE karo apne 3 farak likhne ke liye.\nUs teammate ko bhejo jo har visit mein competition ko kosta hai.\n\nComment FARAK agar apne 3 farak likhoge.\n\n#TheMarketingGuru #MarketingTipsHindi #SalesTipsHindi #Branding #SalesTraining",
+  "first_comment": "Aapke product ke 3 sabse bade farak kya hain? Comment mein batao.",
+  "yt_title": "Competition Ki Burai Mat Karo | Marketing Tips in Hindi",
+  "yt_tags": [
+    "marketing tips in hindi",
+    "positioning hindi",
+    "competition se kaise jeete",
+    "sales tips in hindi",
+    "branding hindi"
+  ],
+  "yt_description": "Marketing tips in Hindi: competition ki burai ki jagah apna farak kaise batao, positioning aur bharosa kaise banta hai. Daily sales lessons from 25 years in field sales by Vinay Pandey, The Marketing Guru.\n\n#MarketingTips #Positioning #SalesLessonDaily #Shorts",
+  "speed": 1.12
+}

@@ -5,7 +5,7 @@ Common, universal sales lessons (B2B, field sales, retail, pharma, FMCG). One pe
 2. Talking more than listening -> ask, then stay silent 3 seconds (USED 008)
 3. Pitching features -> sell the customer's result
 4. Discounting at the first objection -> ask what's behind the price question (USED 003)
-5. "Let me think about it" -> find the real doubt
+5. "Let me think about it" -> find the real doubt (USED 010)
 6. Ending a call without a next step -> always book the next date (USED 006)
 7. Opening with "Any requirement, sir?" -> open with their problem (USED 004)
 8. Arguing with an objection -> agree, then ask one more question
@@ -21,13 +21,13 @@ Common, universal sales lessons (B2B, field sales, retail, pharma, FMCG). One pe
 18. Long WhatsApp messages -> 2 lines + 1 question
 19. Ignoring small customers -> small accounts become big ones
 20. Not using the customer's name -> remember names and details
-21. Closing too late -> ask for the order when buying signals show
+21. Closing too late -> ask for the order when buying signals show (USED 013)
 22. Complaining about competition -> know your 3 differences by heart
-23. Missing the gatekeeper -> respect and remember the receptionist/assistant
+23. Missing the gatekeeper -> respect and remember the receptionist/assistant (USED 011)
 24. Generic thank-you -> specific follow-up within 24 hours
 25. Selling price instead of value -> show cost of not buying
 26. One-way presentations -> ask a question every 60 seconds
-27. Promising to "send details" -> send them the same day
+27. Promising to "send details" -> send them the same day (USED 015)
 28. Giving up after 2 follow-ups -> persistent, useful follow-up
 29. Talking about yourself in the opening -> first 10 seconds about them
 30. Not asking for referrals -> ask happy customers who else needs this
@@ -51,13 +51,13 @@ M5. "Sasta" vs "value for money" -> positioning ka farak
 M6. Word of mouth -> khush customer se referral maangna
 M7. Ek line mein batao aap kya karte ho (elevator pitch) (USED 007)
 M8. Features list vs ek strong benefit
-M9. Customer ki bhasha mein bolo, company ki nahi
+M9. Customer ki bhasha mein bolo, company ki nahi (USED 012)
 M10. Consistency branding hai: roz dikho
-M11. Competition ki burai mat karo, apna farak batao
+M11. Competition ki burai mat karo, apna farak batao (USED 014)
 M12. Social proof: "aap jaise customers ne..." (only real examples)
 
 ## MOTIVATION (field-sales mindset, Hinglish)
-X1. "Na" ek data hai, faisla nahi
+X1. "Na" ek data hai, faisla nahi (USED 009)
 X2. Mahina 1 tareekh ko shuru hota hai, 20 ko nahi (USED 002)
 X3. Motivation ka intezaar mat karo, pehla call 10 baje se pehle
 X4. Target se darr nahi, plan se dosti
