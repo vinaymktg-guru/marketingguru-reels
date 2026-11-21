@@ -1,0 +1,32 @@
+{
+  "slug": "ba-005-naye-customer-ko-pehla-message",
+  "n": 5,
+  "brand": "ba",
+  "lang": "hi",
+  "theme": "bokeh",
+  "chords": 0,
+  "speed": 1.12,
+  "hook": {
+    "text": "Naye customer ko *pehla message?* AI se likhwao.",
+    "vo": "नए कस्टमर को पहला मैसेज? ए आई से लिखवाओ।"
+  },
+  "mistake": {
+    "text": "\"Hello sir, hamara *product* le lo.\"",
+    "vo": "हेलो सर, हमारा प्रोडक्ट ले लो। ऐसे मैसेज का जवाब कोई नहीं देता।"
+  },
+  "fix": {
+    "text": "\"Write a *first WhatsApp message* to a shop owner. I sell packaging. *30 words, no hard sell.*\"",
+    "vo": "अपने ए आई असिस्टेंट में लिखो: एक दुकानदार के लिए पहला व्हाट्सऐप मैसेज लिखो। मैं पैकेजिंग बेचता हूँ। तीस शब्द, ज़बरदस्ती नहीं।"
+  },
+  "why": {
+    "text": "Chhota, *izzat wala* message. Bhejne se pehle *naam aur detail* khud daalo.",
+    "vo": "छोटा, इज़्ज़त वाला मैसेज तैयार। भेजने से पहले नाम और डिटेल खुद डालो।"
+  },
+  "cta": {
+    "share": "Us teammate ko bhejo jo pehle message mein hi product bechta hai.",
+    "keyword": "PEHLA",
+    "vo": "सेव करो, और उस टीममेट को भेजो जो पहले मैसेज में ही प्रोडक्ट बेचता है।"
+  },
+  "caption": "Naye customer ko pehla message kya bhejein? AI se likhwao.\n\nApne AI assistant mein yeh likho: \"Write a first WhatsApp message to a shop owner. I sell packaging. 30 words, no hard sell.\" Packaging ki jagah apna product likho. Bhejne se pehle customer ka naam aur apni detail khud daalo, aur message apni bhasha mein theek karo.\n\nSAVE karo agle naye lead ke liye.\nUs teammate ko bhejo jo pehle message mein hi product bechta hai.\n\nIs reel ki voice aur visuals AI se bane hain.\n\n#BharatAI #AITipsHindi #SalesTips #ChatGPTHindi #AIForBusiness",
+  "first_comment": "Aap naye customer ko pehla message kya bhejte ho?"
+}

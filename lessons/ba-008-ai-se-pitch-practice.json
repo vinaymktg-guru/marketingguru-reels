@@ -1,0 +1,32 @@
+{
+  "slug": "ba-008-ai-se-pitch-practice",
+  "n": 8,
+  "brand": "ba",
+  "lang": "hi",
+  "theme": "grid",
+  "chords": 3,
+  "speed": 1.12,
+  "hook": {
+    "text": "Pitch ki *practice* customer pe nahi, *AI pe* karo.",
+    "vo": "पिच की प्रैक्टिस कस्टमर पे नहीं, ए आई पे करो।"
+  },
+  "mistake": {
+    "text": "Naya pitch *seedha customer* ke saamne try karna.",
+    "vo": "नया पिच सीधा कस्टमर के सामने ट्राई करना। गलती हुई, तो ऑर्डर गया।"
+  },
+  "fix": {
+    "text": "\"Act as a *tough customer.* I will pitch my product. Give *one objection at a time.*\"",
+    "vo": "अपने ए आई असिस्टेंट में लिखो: एक सख़्त कस्टमर बनो। मैं अपना प्रोडक्ट पिच करूँगा। एक बार में एक आपत्ति दो।"
+  },
+  "why": {
+    "text": "Galti *practice mein* hogi, customer ke saamne nahi. *Jawab pakke* honge.",
+    "vo": "गलती प्रैक्टिस में होगी, कस्टमर के सामने नहीं। और आपके जवाब पक्के होंगे।"
+  },
+  "cta": {
+    "share": "Us teammate ko bhejo jiska kal bada presentation hai.",
+    "keyword": "PRACTICE",
+    "vo": "सेव करो, और उस टीममेट को भेजो जिसका कल बड़ा प्रेज़ेंटेशन है।"
+  },
+  "caption": "Pitch ki practice customer pe nahi, AI pe karo.\n\nApne AI assistant mein yeh likho: \"Act as a tough customer. I will pitch my product. Give one objection at a time.\" Phir apna pitch likho ya bolo. AI ek ek sawal uthayega aur aap jawab dene ki practice karoge. Asli customer alag ho sakta hai, isliye isse taiyaari samjho, script nahi.\n\nSAVE karo agli badi meeting se pehle ke liye.\nUs teammate ko bhejo jiska kal bada presentation hai.\n\nIs reel ki voice aur visuals AI se bane hain.\n\n#BharatAI #AITipsHindi #SalesTips #AIForBusiness #ChatGPTHindi",
+  "first_comment": "Aap badi meeting se pehle pitch ki practice kaise karte ho?"
+}

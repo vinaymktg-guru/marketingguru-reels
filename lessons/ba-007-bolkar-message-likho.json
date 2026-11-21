@@ -1,0 +1,33 @@
+{
+  "slug": "ba-007-bolkar-message-likho",
+  "n": 7,
+  "brand": "ba",
+  "lang": "hi",
+  "theme": "bokeh",
+  "chords": 2,
+  "speed": 1.12,
+  "hook": {
+    "text": "Lamba message *type* karna band karo. *Bolkar likho.*",
+    "vo": "लंबा मैसेज टाइप करना बंद करो। बोलकर लिखो।"
+  },
+  "mistake": {
+    "text": "Field mein khade khade *ek ek akshar* type karna.",
+    "vo": "फ़ील्ड में खड़े खड़े एक एक अक्षर टाइप करना। समय जाता है, और मैसेज अधूरा रह जाता है।"
+  },
+  "fix": {
+    "label": "YEH KARO",
+    "text": "*Gboard* keyboard kholo. *Mic* dabao. *\"Speak now\"* dikhe to bolo.",
+    "vo": "जी बोर्ड कीबोर्ड खोलो। माइक दबाओ। स्पीक नाउ दिखे, तो बोलो।"
+  },
+  "why": {
+    "text": "Bolte hi *message likha* jaata hai. Bhejne se pehle *ek baar padho.*",
+    "vo": "बोलते ही मैसेज लिखा जाता है। भेजने से पहले एक बार ज़रूर पढ़ो।"
+  },
+  "cta": {
+    "share": "Us teammate ko bhejo jo report type karne mein aadha ghanta lagata hai.",
+    "keyword": "MIC",
+    "vo": "सेव करो, और उस टीममेट को भेजो जो रिपोर्ट टाइप करने में आधा घंटा लगाता है।"
+  },
+  "caption": "Lamba message type karna band karo. Bolkar likho.\n\nTool in 30 sec: Android phone mein Gboard keyboard kholo, upar mic dabao, \"Speak now\" dikhe to apni baat bolo. Jo bologe woh text ban jaata hai. Visit ke notes, follow-up message ya daily report ke liye kaam ka hai. Bhejne se pehle ek baar padhkar galti theek zaroor karo.\n\nSAVE karo agle field visit ke liye.\nUs teammate ko bhejo jo report type karne mein aadha ghanta lagata hai.\n\nIs reel ki voice aur visuals AI se bane hain.\n\n#BharatAI #AITipsHindi #AIForBusiness #SalesTips #ChatGPTHindi",
+  "first_comment": "Aap message type karte ho ya bolkar likhte ho?"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "ba-006-instagram-caption-ai-se",
+  "n": 6,
+  "brand": "ba",
+  "lang": "hi",
+  "theme": "grid",
+  "chords": 1,
+  "speed": 1.12,
+  "hook": {
+    "text": "Photo taiyaar, *caption nahi?* AI se likhwao.",
+    "vo": "फ़ोटो तैयार, कैप्शन नहीं? ए आई से लिखवाओ।"
+  },
+  "mistake": {
+    "text": "Har post pe wahi *\"New stock available\".*",
+    "vo": "हर पोस्ट पे वही, न्यू स्टॉक अवेलेबल। लोग बिना पढ़े आगे बढ़ जाते हैं।"
+  },
+  "fix": {
+    "text": "\"Write *3 Instagram captions* for my bakery's new cake. Hinglish, short, *one call to action.*\"",
+    "vo": "अपने ए आई असिस्टेंट में लिखो: मेरी बेकरी के नए केक के लिए तीन इंस्टाग्राम कैप्शन लिखो। हिंग्लिश, छोटे, एक कॉल टू एक्शन।"
+  },
+  "why": {
+    "text": "*3 option* turant. Ek chuno, *daam aur detail* khud check karo.",
+    "vo": "तीन ऑप्शन तुरंत। एक चुनो, और दाम और डिटेल खुद चेक करो।"
+  },
+  "cta": {
+    "share": "Us dost ko bhejo jo caption sochne mein ghanta lagata hai.",
+    "keyword": "CAPTION",
+    "vo": "सेव करो, और उस दोस्त को भेजो जो कैप्शन सोचने में घंटा लगाता है।"
+  },
+  "caption": "Photo taiyaar hai par caption nahi soojh raha? AI se likhwao.\n\nApne AI assistant mein yeh likho: \"Write 3 Instagram captions for my bakery's new cake. Hinglish, short, one call to action.\" Bakery ki jagah apna business likho. Teen option milenge. Ek chuno, apne andaaz mein badlo, aur daam ya offer ki detail khud check karo.\n\nSAVE karo agli post ke liye.\nUs dost ko bhejo jo caption sochne mein ghanta lagata hai.\n\nIs reel ki voice aur visuals AI se bane hain.\n\n#BharatAI #AITipsHindi #AIForBusiness #ChatGPTHindi #SalesTips",
+  "first_comment": "Aapko post ka kaun sa hissa sabse mushkil lagta hai: photo, caption ya hashtag?"
+}
