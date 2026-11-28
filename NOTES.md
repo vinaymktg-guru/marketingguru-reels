@@ -94,3 +94,15 @@ Canva generate-image keeps the hero consistent when MAHblMTeBq4 is passed as ref
 22 Nov 2026 ~03:40 IST: Vinay said "Approved" in chat. All six ba posts for 23-28 Nov set to draft false (LIVE-scheduled, 19:00 IST, autoPublish).
 New post ids: Mon 437069658, Tue 437069700, Wed 437069665, Thu 437069675, Fri 437069712, Sat 437069690 (uuids unchanged).
 This approval covers the week of 23-Nov only; later weeks stay drafts until he approves them.
+
+## Week of 29-Nov-2026 (built Sat 28-Nov-2026 ~15:50 IST, scheduled run) – Metricool DRAFTS, 13:00 IST, IG REEL + FB REEL + YouTube Short
+Media pinned to commit 49f72757bea0c1eb4adb2aa6262bd77f54d90883. Approval email Gmail thread id 1a221aaa837811c3.
+Week of 22-Nov was approved and all 7 published (IG/FB/YT). No 20:00 posts existed in brand 7623016 for 29 Nov - 5 Dec at build time. No Vinay replies with new rules.
+- Sun 29-Nov-2026: 016-pehla-call-10-baje-se-pehle – uuid 6262654834409226424 (post id 445307334)
+- Mon 30-Nov-2026: 017-call-se-pehle-2-minute – uuid -6049350734807086499 (post id 445307680)
+- Tue 01-Dec-2026: 018-faisla-kaun-leta-hai – uuid 6293298585493193875 (post id 445307689)
+- Wed 02-Dec-2026: 019-sabko-mat-becho – uuid -2458340841722132178 (post id 445307700)
+- Thu 03-Dec-2026: 020-bahas-mat-karo-sawal-pucho – uuid 1765601529675991664 (post id 445307711)
+- Fri 04-Dec-2026: 021-referral-maango – uuid 3952761450398959761 (post id 445307722)
+- Sat 05-Dec-2026: 022-whatsapp-2-line – uuid -4895198034022543758 (post id 445307733)
+Note: add_repo tool was not available; the repo was already cloned in the session and push worked.
