@@ -106,3 +106,11 @@ Week of 22-Nov was approved and all 7 published (IG/FB/YT). No 20:00 posts exist
 - Fri 04-Dec-2026: 021-referral-maango – uuid 3952761450398959761 (post id 445307722)
 - Sat 05-Dec-2026: 022-whatsapp-2-line – uuid -4895198034022543758 (post id 445307733)
 Note: add_repo tool was not available; the repo was already cloned in the session and push worked.
+
+## Mera Bachcha – week of 30-Nov-2026 (Super-Brand Weekly Build, Sat 28-Nov-2026 run) – brand 8084158, 8:30 PM IST, IG + FB, DRAFTS
+Images pinned to commit 780fc1e4c34f090545ac69c58d82245d33c4dff6 (posts/mb-week-2026-11-30/). Email thread 1a221fb901f53021.
+Skipped (already filled): 8:30 PM Mon-Thu, 11:30 AM Mon-Fri. Sat/Sun 11:30 empty (no reel).
+- Fri 4 Dec: Ek Maa Ki Diary "Aaj park nahi" (air quality, approved topic 21), 6 slides, Dt. Nisha, UNICEF – uuid 6327738645267763054 (id 445366978)
+- Sat 5 Dec: Warning Signs "Khaansi-zukaam 5 sign" (WHO pneumonia), 4 slides, Dt. Priyanka – uuid 2017783064723606498 (id 445366994). Topic 23 skipped: repeat of 27 Nov "sardi-garam".
+- Sun 6 Dec: Ek Papa Ki Diary (topic 24), 4 slides, Prerna tip, UNICEF – uuid -4838185150413912163 (id 445367015)
+Collabs: nutrieezen, dt.priyanka_sharma, nishaa.das2026 (Vijaylaxmi not confirmed by email). Flagged: Vinay emailed "Approved" on Task 16 (30 Nov-3 Dec drafts) but they are still drafts; not flipped from email.
