@@ -1,0 +1,42 @@
+{
+  "slug": "021-referral-maango",
+  "n": 21,
+  "lang": "hi",
+  "voice": "hm_omega",
+  "theme": "streaks",
+  "chords": 1,
+  "hook": {
+    "text": "Khush customer se *referral maango.*",
+    "vo": "खुश कस्टमर से रेफ़रल माँगो।"
+  },
+  "mistake": {
+    "text": "Customer khush hai, *thank you* bola, aur baat khatam.",
+    "vo": "कस्टमर खुश है, थैंक यू बोला, और बात ख़त्म।"
+  },
+  "fix": {
+    "text": "\"Sir, aap jaise *aur kisko* iski zaroorat hogi? *Ek naam* bata dijiye.\"",
+    "vo": "सर, आप जैसे और किसको इसकी ज़रूरत होगी? एक नाम बता दीजिए।"
+  },
+  "why": {
+    "text": "Khush customer ki *ek sifarish,* cold call se *kahin zyada* chalti hai.",
+    "vo": "खुश कस्टमर की एक सिफ़ारिश, कोल्ड कॉल से कहीं ज़्यादा चलती है।"
+  },
+  "cta": {
+    "share": "Us teammate ko bhejo jo kabhi referral nahi maangta.",
+    "keyword": "NAAM",
+    "ask": "agar is hafte ek naam maangoge",
+    "vo": "सेव करो, और उस टीममेट को भेजो जो कभी रेफ़रल नहीं माँगता। और अगली बार..."
+  },
+  "caption": "Khush customer se referral maango. Marketing tips in Hindi: word of mouth apne aap nahi hota, use maangna padta hai.\n\nJab customer khush ho, tab poocho: \"Sir, aap jaise aur kisko iski zaroorat hogi? Ek naam bata dijiye.\" Bharose wale insaan ki sifarish ke baad darwaza pehle se khula milta hai.\n\nSAVE karo agle khush customer ke liye.\nUs teammate ko bhejo jo kabhi referral nahi maangta.\n\nComment NAAM agar is hafte ek naam maangoge.\n\n#TheMarketingGuru #MarketingTipsHindi #SalesTipsHindi #FieldSales #IndianEntrepreneur",
+  "first_comment": "Aapka sabse accha customer aapko kisi referral se mila tha? Comment mein batao.",
+  "yt_title": "Khush Customer Se Referral Maango | Marketing Tips in Hindi",
+  "yt_tags": [
+    "marketing tips in hindi",
+    "referral kaise maange",
+    "word of mouth marketing",
+    "sales tips in hindi",
+    "marketing guru"
+  ],
+  "yt_description": "Marketing tips in Hindi: word of mouth aur referral, khush customer se ek naam kaise maange taaki naye customer bharose se milein. Daily sales lessons from 25 years in field sales by Vinay Pandey, The Marketing Guru.\n\n#MarketingTips #Referral #SalesLessonDaily #Shorts",
+  "speed": 1.12
+}

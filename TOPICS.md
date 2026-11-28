@@ -8,17 +8,17 @@ Common, universal sales lessons (B2B, field sales, retail, pharma, FMCG). One pe
 5. "Let me think about it" -> find the real doubt (USED 010)
 6. Ending a call without a next step -> always book the next date (USED 006)
 7. Opening with "Any requirement, sir?" -> open with their problem (USED 004)
-8. Arguing with an objection -> agree, then ask one more question
+8. Arguing with an objection -> agree, then ask one more question (USED 020)
 9. Visiting only friendly customers -> spend time where the growth is
 10. Writing reports at month-end -> plan the first week
 11. Blaming the territory -> grow one new account a week
-12. Selling to the wrong person -> find who really decides
-13. No preparation before a call -> 2-minute pre-call check (last visit note)
+12. Selling to the wrong person -> find who really decides (USED 018)
+13. No preparation before a call -> 2-minute pre-call check (last visit note) (USED 017)
 14. Saying "trust me" -> show proof (a case, a number the customer knows)
 15. Over-promising delivery -> under-promise, over-deliver
 16. Fear of rejection -> each "no" is data, ask what would change it
 17. Asking "Did you like it?" -> ask "What would stop you from starting?"
-18. Long WhatsApp messages -> 2 lines + 1 question
+18. Long WhatsApp messages -> 2 lines + 1 question (USED 022)
 19. Ignoring small customers -> small accounts become big ones
 20. Not using the customer's name -> remember names and details
 21. Closing too late -> ask for the order when buying signals show (USED 013)
@@ -44,11 +44,11 @@ Common, universal sales lessons (B2B, field sales, retail, pharma, FMCG). One pe
 
 ## MARKETING (Hinglish)
 M1. Product nahi, problem becho -> customer ka dard pehle (USED 005)
-M2. Sabko bechne ki koshish -> ek clear customer chuno
+M2. Sabko bechne ki koshish -> ek clear customer chuno (USED 019)
 M3. Price kam karna hi strategy nahi -> value dikhao
 M4. Brand = jo customer aapke baare mein bolta hai jab aap room mein nahi ho
 M5. "Sasta" vs "value for money" -> positioning ka farak
-M6. Word of mouth -> khush customer se referral maangna
+M6. Word of mouth -> khush customer se referral maangna (USED 021)
 M7. Ek line mein batao aap kya karte ho (elevator pitch) (USED 007)
 M8. Features list vs ek strong benefit
 M9. Customer ki bhasha mein bolo, company ki nahi (USED 012)
@@ -59,7 +59,7 @@ M12. Social proof: "aap jaise customers ne..." (only real examples)
 ## MOTIVATION (field-sales mindset, Hinglish)
 X1. "Na" ek data hai, faisla nahi (USED 009)
 X2. Mahina 1 tareekh ko shuru hota hai, 20 ko nahi (USED 002)
-X3. Motivation ka intezaar mat karo, pehla call 10 baje se pehle
+X3. Motivation ka intezaar mat karo, pehla call 10 baje se pehle (USED 016)
 X4. Target se darr nahi, plan se dosti
 X5. Aaj ka chhota kaam = kal ka bada result (1% roz)
 X6. Bura din, bura mahina nahi hota jab tak aap ruko nahi

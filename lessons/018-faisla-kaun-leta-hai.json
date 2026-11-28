@@ -1,0 +1,42 @@
+{
+  "slug": "018-faisla-kaun-leta-hai",
+  "n": 18,
+  "lang": "hi",
+  "voice": "hm_omega",
+  "theme": "streaks",
+  "chords": 2,
+  "hook": {
+    "text": "Pehle poocho, *faisla kaun leta hai?*",
+    "vo": "पहले पूछो, फ़ैसला कौन लेता है?"
+  },
+  "mistake": {
+    "text": "Teen meeting ek hi insaan se. Order ka faisla *kisi aur* ka.",
+    "vo": "तीन मीटिंग एक ही इंसान से। ऑर्डर का फ़ैसला किसी और का।"
+  },
+  "fix": {
+    "text": "Izzat se poocho: \"Sir, *final decision* mein aur *kaun kaun* shaamil hota hai?\"",
+    "vo": "इज़्ज़त से पूछो। सर, फ़ाइनल डिसीज़न में और कौन कौन शामिल होता है?"
+  },
+  "why": {
+    "text": "Sahi insaan tak pahunche *bina,* acchi pitch bhi *adhoori* rehti hai.",
+    "vo": "सही इंसान तक पहुँचे बिना, अच्छी पिच भी अधूरी रहती है।"
+  },
+  "cta": {
+    "share": "Us teammate ko bhejo jo galat insaan ko pitch karta hai.",
+    "keyword": "KAUN",
+    "ask": "agar agli meeting mein poochoge",
+    "vo": "सेव करो, और उस टीममेट को भेजो जो गलत इंसान को पिच करता है। और अगली बार..."
+  },
+  "caption": "Pehle poocho, faisla kaun leta hai? Sales tips in Hindi: closing tabhi hoti hai jab pitch sahi insaan tak pahunche.\n\nKai baar hum teen meeting ek hi insaan se kar lete hain, aur order ka faisla kisi aur ka hota hai. Izzat se poocho: \"Sir, final decision mein aur kaun kaun shaamil hota hai?\"\n\nSAVE karo agli meeting ke liye.\nUs teammate ko bhejo jo galat insaan ko pitch karta hai.\n\nComment KAUN agar agli meeting mein poochoge.\n\n#TheMarketingGuru #SalesTipsHindi #SalesTraining #FieldSales #IndianEntrepreneur",
+  "first_comment": "Kabhi aisa hua ki poori pitch ke baad pata chala faisla kisi aur ka tha? Comment mein batao.",
+  "yt_title": "Faisla Kaun Leta Hai? Pehle Poocho | Sales Tips in Hindi",
+  "yt_tags": [
+    "sales tips in hindi",
+    "closing kaise kare",
+    "sales training hindi",
+    "decision maker",
+    "marketing guru"
+  ],
+  "yt_description": "Sales tips in Hindi: B2B aur field sales mein decision-maker ko kaise pehchane, ek izzat bhare sawaal se, taaki closing atke nahi. Daily sales lessons from 25 years in field sales by Vinay Pandey, The Marketing Guru.\n\n#SalesTips #Closing #SalesLessonDaily #Shorts",
+  "speed": 1.12
+}

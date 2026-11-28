@@ -1,0 +1,42 @@
+{
+  "slug": "019-sabko-mat-becho",
+  "n": 19,
+  "lang": "hi",
+  "voice": "hm_omega",
+  "theme": "bokeh",
+  "chords": 3,
+  "hook": {
+    "text": "*Sabko* bechoge to *kisi ko nahi* bikega.",
+    "vo": "सबको बेचोगे तो किसी को नहीं बिकेगा।"
+  },
+  "mistake": {
+    "text": "\"Hamara product sabke liye hai, sir.\"",
+    "vo": "हमारा प्रोडक्ट सबके लिए है, सर।"
+  },
+  "fix": {
+    "text": "*Ek clear customer* chuno. Uski *ek problem* pe poori baat karo.",
+    "vo": "एक क्लियर कस्टमर चुनो। उसकी एक प्रॉब्लम पे पूरी बात करो।"
+  },
+  "why": {
+    "text": "Jab customer ko lage *\"yeh mere liye hai\",* tab woh sunta hai.",
+    "vo": "जब कस्टमर को लगे, ये मेरे लिए है, तब वो सुनता है।"
+  },
+  "cta": {
+    "share": "Us teammate ko bhejo jo har kisi ko ek hi pitch deta hai.",
+    "keyword": "EK",
+    "ask": "agar apna ek customer likhoge",
+    "vo": "सेव करो, और उस टीममेट को भेजो जो हर किसी को एक ही पिच देता है। और याद रखो..."
+  },
+  "caption": "Sabko bechoge to kisi ko nahi bikega. Marketing tips in Hindi: positioning ka pehla rule hai, ek clear customer chuno.\n\n\"Hamara product sabke liye hai\" sunke customer ko lagta hai yeh uske liye khaas nahi hai. Ek customer chuno, uski ek problem pe poori baat karo. Tab woh kehta hai, \"yeh mere liye hai.\"\n\nSAVE karo apni agli pitch ke liye.\nUs teammate ko bhejo jo har kisi ko ek hi pitch deta hai.\n\nComment EK agar apna ek customer likhoge.\n\n#TheMarketingGuru #MarketingTipsHindi #SalesTipsHindi #IndianEntrepreneur #SalesTraining",
+  "first_comment": "Aapka sabse sahi customer kaun hai, ek line mein? Comment mein batao.",
+  "yt_title": "Sabko Mat Becho, Ek Chuno | Marketing Tips in Hindi",
+  "yt_tags": [
+    "marketing tips in hindi",
+    "positioning kya hai",
+    "target customer",
+    "sales tips in hindi",
+    "marketing guru"
+  ],
+  "yt_description": "Marketing tips in Hindi: positioning aur target customer, ek clear customer aur uski ek problem chun ke pitch kaise strong banaye. Daily sales lessons from 25 years in field sales by Vinay Pandey, The Marketing Guru.\n\n#MarketingTips #Positioning #SalesLessonDaily #Shorts",
+  "speed": 1.12
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "017-call-se-pehle-2-minute",
+  "n": 17,
+  "lang": "hi",
+  "voice": "hm_omega",
+  "theme": "grid",
+  "chords": 1,
+  "hook": {
+    "text": "Bina taiyari ke *call mat karo.*",
+    "vo": "बिना तैयारी के कॉल मत करो।"
+  },
+  "mistake": {
+    "text": "\"Sir, pichhli baar kya baat hui thi?\" Customer se hi poochna.",
+    "vo": "सर, पिछली बार क्या बात हुई थी? कस्टमर से ही पूछना।"
+  },
+  "fix": {
+    "text": "Call se pehle *2 minute:* pichhla note padho, *ek sawaal* tay karo.",
+    "vo": "कॉल से पहले दो मिनट। पिछला नोट पढ़ो, एक सवाल तय करो।"
+  },
+  "why": {
+    "text": "Customer ko lagta hai *aapne use yaad rakha.* Wahi *bharosa* banata hai.",
+    "vo": "कस्टमर को लगता है आपने उसे याद रखा। वही भरोसा बनाता है।"
+  },
+  "cta": {
+    "share": "Us teammate ko bhejo jo bina taiyari call karta hai.",
+    "keyword": "NOTE",
+    "ask": "agar agle call se pehle padhoge",
+    "vo": "सेव करो, और उस टीममेट को भेजो जो बिना तैयारी कॉल करता है। और अगली बार..."
+  },
+  "caption": "Bina taiyari ke call mat karo. Sales tips in Hindi: 2 minute ka pre-call check aapki baat ka level badal deta hai.\n\nCall ya visit se pehle pichhla note padho: kya baat hui thi, kya promise kiya tha. Phir ek sawaal tay karo jo aaj poochna hai. Customer ko lagega aapne use yaad rakha.\n\nSAVE karo apne agle call ke liye.\nUs teammate ko bhejo jo bina taiyari call karta hai.\n\nComment NOTE agar agle call se pehle padhoge.\n\n#TheMarketingGuru #SalesTipsHindi #SalesTraining #FieldSales #SalesMotivation",
+  "first_comment": "Call se pehle aap kya check karte ho? Comment mein batao.",
+  "yt_title": "Bina Taiyari Call Mat Karo | Sales Tips in Hindi",
+  "yt_tags": [
+    "sales tips in hindi",
+    "sales call kaise kare",
+    "sales training hindi",
+    "field sales",
+    "marketing guru"
+  ],
+  "yt_description": "Sales tips in Hindi: field sales mein call se pehle 2 minute ka check, pichhla note aur ek sawaal, jo customer ka bharosa banata hai. Daily sales lessons from 25 years in field sales by Vinay Pandey, The Marketing Guru.\n\n#SalesTips #FieldSales #SalesLessonDaily #Shorts",
+  "speed": 1.12
+}

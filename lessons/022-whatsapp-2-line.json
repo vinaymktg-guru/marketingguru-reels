@@ -1,0 +1,42 @@
+{
+  "slug": "022-whatsapp-2-line",
+  "n": 22,
+  "lang": "hi",
+  "voice": "hm_omega",
+  "theme": "bokeh",
+  "chords": 2,
+  "hook": {
+    "text": "Lamba WhatsApp *koi nahi padhta.*",
+    "vo": "लंबा व्हाट्सऐप कोई नहीं पढ़ता।"
+  },
+  "mistake": {
+    "text": "Poora paragraph, teen PDF, aur *koi sawaal nahi.*",
+    "vo": "पूरा पैराग्राफ़, तीन पीडीएफ़, और कोई सवाल नहीं।"
+  },
+  "fix": {
+    "text": "*2 line* kaam ki baat, *1 sawaal:* \"Sir, kal 11 baje baat karein?\"",
+    "vo": "दो लाइन काम की बात, एक सवाल। सर, कल ग्यारह बजे बात करें?"
+  },
+  "why": {
+    "text": "Chhota message *padha jaata hai.* Sawaal ka *jawab* aata hai.",
+    "vo": "छोटा मैसेज पढ़ा जाता है। सवाल का जवाब आता है।"
+  },
+  "cta": {
+    "share": "Us teammate ko bhejo jo WhatsApp pe essay likhta hai.",
+    "keyword": "CHHOTA",
+    "ask": "agar agla message chhota rakhoge",
+    "vo": "सेव करो, और उस टीममेट को भेजो जो व्हाट्सऐप पे निबंध लिखता है। और याद रखो..."
+  },
+  "caption": "Lamba WhatsApp koi nahi padhta. Sales tips in Hindi: follow-up message ka simple rule, 2 line + 1 sawaal.\n\nPoora paragraph aur teen PDF bhejoge to customer baad mein padhne ke liye chhod dega. 2 line mein kaam ki baat likho aur ek seedha sawaal poocho: \"Sir, kal 11 baje baat karein?\"\n\nSAVE karo agle follow-up ke liye.\nUs teammate ko bhejo jo WhatsApp pe essay likhta hai.\n\nComment CHHOTA agar agla message chhota rakhoge.\n\n#TheMarketingGuru #SalesTipsHindi #FollowUp #SalesTraining #FieldSales",
+  "first_comment": "Customer ko aapka sabse accha WhatsApp follow-up kya tha? Comment mein batao.",
+  "yt_title": "Lamba WhatsApp Koi Nahi Padhta | Sales Tips in Hindi",
+  "yt_tags": [
+    "sales tips in hindi",
+    "whatsapp follow up",
+    "follow up kaise kare",
+    "sales training hindi",
+    "marketing guru"
+  ],
+  "yt_description": "Sales tips in Hindi: WhatsApp follow-up ka 2 line + 1 sawaal rule, jisse customer message padhe aur jawab de. Daily sales lessons from 25 years in field sales by Vinay Pandey, The Marketing Guru.\n\n#FollowUp #SalesTips #SalesLessonDaily #Shorts",
+  "speed": 1.12
+}

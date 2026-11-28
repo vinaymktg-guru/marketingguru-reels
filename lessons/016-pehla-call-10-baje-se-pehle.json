@@ -1,0 +1,42 @@
+{
+  "slug": "016-pehla-call-10-baje-se-pehle",
+  "n": 16,
+  "lang": "hi",
+  "voice": "hm_omega",
+  "theme": "bokeh",
+  "chords": 0,
+  "hook": {
+    "text": "Motivation ka *intezaar mat karo.*",
+    "vo": "मोटिवेशन का इंतज़ार मत करो।"
+  },
+  "mistake": {
+    "text": "\"Mood banega tab calls shuru karunga.\" Aur 12 baj gaye.",
+    "vo": "मूड बनेगा तब कॉल्स शुरू करूँगा। और बारह बज गए।"
+  },
+  "fix": {
+    "text": "*Pehla call 10 baje se pehle.* List raat ko hi *ready rakho.*",
+    "vo": "पहला कॉल दस बजे से पहले। लिस्ट रात को ही रेडी रखो।"
+  },
+  "why": {
+    "text": "*Kaam shuru karo,* motivation *peeche peeche* aata hai.",
+    "vo": "काम शुरू करो, मोटिवेशन पीछे पीछे आता है।"
+  },
+  "cta": {
+    "share": "Us teammate ko bhejo jo mood ka intezaar karta hai.",
+    "keyword": "SHURU",
+    "ask": "agar kal 10 se pehle call karoge",
+    "vo": "सेव करो, और उस टीममेट को भेजो जो मूड का इंतज़ार करता है। और याद रखो..."
+  },
+  "caption": "Motivation ka intezaar mat karo. Sales motivation in Hindi: field mein din ka pehla ghanta hi poora din tay karta hai.\n\nRaat ko kal ki call list ready rakho. Subah pehla call 10 baje se pehle karo. Kaam shuru karoge to motivation khud peeche peeche aayega.\n\nSAVE karo kal subah ke liye.\nUs teammate ko bhejo jo mood ka intezaar karta hai.\n\nComment SHURU agar kal 10 se pehle call karoge.\n\n#TheMarketingGuru #SalesMotivation #HindiMotivation #FieldSales #SalesTipsHindi",
+  "first_comment": "Aapka din ka pehla call aam taur pe kitne baje hota hai? Comment mein batao.",
+  "yt_title": "Motivation Ka Intezaar Mat Karo | Motivation in Hindi",
+  "yt_tags": [
+    "motivation in hindi",
+    "sales motivation hindi",
+    "field sales",
+    "sales tips in hindi",
+    "marketing guru"
+  ],
+  "yt_description": "Sales motivation in Hindi: mood ka intezaar chhodo, din ka pehla call 10 baje se pehle karo aur list raat ko ready rakho. Daily sales lessons from 25 years in field sales by Vinay Pandey, The Marketing Guru.\n\n#SalesMotivation #FieldSales #SalesLessonDaily #Shorts",
+  "speed": 1.12
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "020-bahas-mat-karo-sawal-pucho",
+  "n": 20,
+  "lang": "hi",
+  "voice": "hm_omega",
+  "theme": "grid",
+  "chords": 0,
+  "hook": {
+    "text": "Objection se *bahas mat karo.*",
+    "vo": "ऑब्जेक्शन से बहस मत करो।"
+  },
+  "mistake": {
+    "text": "\"Nahi sir, aap galat soch rahe ho. Hamara product...\"",
+    "vo": "नहीं सर, आप गलत सोच रहे हो। हमारा प्रोडक्ट..."
+  },
+  "fix": {
+    "text": "\"Sahi baat hai, sir. *Aapko yeh kyun laga?*\" Phir *chup* raho, suno.",
+    "vo": "सही बात है, सर। आपको ये क्यों लगा? फिर चुप रहो, सुनो।"
+  },
+  "why": {
+    "text": "Bahas mein customer *jeetna* chahta hai. Sawaal se woh *asli baat* batata hai.",
+    "vo": "बहस में कस्टमर जीतना चाहता है। सवाल से वो असली बात बताता है।"
+  },
+  "cta": {
+    "share": "Us teammate ko bhejo jo har objection pe bahas karta hai.",
+    "keyword": "SAWAAL",
+    "ask": "agar agle objection pe poochoge",
+    "vo": "सेव करो, और उस टीममेट को भेजो जो हर ऑब्जेक्शन पे बहस करता है। और अगली बार..."
+  },
+  "caption": "Objection se bahas mat karo. Objection handling in Hindi: pehle maano, phir ek sawaal poocho.\n\n\"Nahi sir, aap galat ho\" bolte hi customer apni baat pe atak jaata hai. Bolo: \"Sahi baat hai, sir. Aapko yeh kyun laga?\" Phir chup raho aur suno. Asli doubt wahi se nikalta hai.\n\nSAVE karo agle objection ke liye.\nUs teammate ko bhejo jo har objection pe bahas karta hai.\n\nComment SAWAAL agar agle objection pe poochoge.\n\n#TheMarketingGuru #SalesTipsHindi #ObjectionHandling #SalesTraining #FieldSales",
+  "first_comment": "Customer ka kaunsa objection aapko sabse zyada milta hai? Comment mein batao.",
+  "yt_title": "Objection Se Bahas Mat Karo | Sales Tips in Hindi",
+  "yt_tags": [
+    "objection handling in hindi",
+    "sales tips in hindi",
+    "sales training hindi",
+    "field sales",
+    "marketing guru"
+  ],
+  "yt_description": "Objection handling in Hindi: customer se bahas ki jagah pehle maano, phir ek sawaal poocho, taaki asli doubt saamne aaye. Daily sales lessons from 25 years in field sales by Vinay Pandey, The Marketing Guru.\n\n#ObjectionHandling #SalesTips #SalesLessonDaily #Shorts",
+  "speed": 1.12
+}
